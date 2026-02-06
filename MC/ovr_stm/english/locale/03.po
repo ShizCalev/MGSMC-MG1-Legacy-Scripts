@@ -1,0 +1,203 @@
+#
+msgid ""
+msgstr ""
+
+#, 0
+msgid ""
+"You made it, rookie. I'm Gray Fox.\n"
+"\n"
+"Metal Gear is the ultimate weapon - an all-terrain, nuclear-equipped, walking battle tank.\n"
+"\n"
+"When it's finished, a nuclear strike can be launched from anywhere on the planet.\n"
+"\n"
+"We must do everything we can to destroy it before it's completed. There's only one way to destroy Metal Gear.\n"
+"\n"
+"And the only person that knows how to do that, is Metal Gear's developer, Dr. Drago Pettrovich Madnar.\n"
+"\n"
+"And he is being held prisoner somewhere inside this building. Find Dr. Madnar!"
+msgstr ""
+
+#, 0
+msgid ""
+"I am Dr. Drago Pettrovich Madnar. My daughter Ellen is a hostage.\n"
+"\n"
+"Unless you help Ellen, I won't tell you anything about Metal Gear.\n"
+"\n"
+"Ellen is being held in the basement of Building 1. Please help her."
+msgstr ""
+
+#, 0
+msgid ""
+"Thank you... My name is Ellen Madnar. I am Dr. Madnar's daughter.\n"
+"\n"
+"They're forcing my father to create Metal Gear. Please, hurry and help my father!"
+msgstr ""
+
+#, 1
+msgid "I'm saved!"
+msgstr ""
+
+#, 0
+msgid ""
+"Thanks for saving me!\n"
+"\n"
+"The FOXHOUND member that infiltrated this base a few days ago is unharmed.\n"
+"\n"
+"They captured him."
+msgstr ""
+
+#, 1
+msgid "Rescued!"
+msgstr ""
+
+#, 0
+msgid ""
+"Thank you for helping me! Diane from the Resistance will provide support on frequency 120.33.\n"
+"\n"
+"Diane should have a lot of information about the enemy."
+msgstr ""
+
+#, 0
+msgid ""
+"Thank you for saving me!\n"
+"\n"
+"That member of FOXHOUND, Gray Fox...\n"
+"\n"
+"He's being held in a secret cell."
+msgstr ""
+
+#, 0
+msgid ""
+"Thanks for helping me!\n"
+"\n"
+"The only way to get close to the secret cell is to get caught..."
+msgstr ""
+
+#, 0
+msgid ""
+"Thank you for helping me!\n"
+"\n"
+"The only way to get into the inner courtyard is to parachute in from the roof."
+msgstr ""
+
+#, 1
+msgid "I'm saved!"
+msgstr ""
+
+#, 0
+msgid ""
+"Thanks for helping me!\n"
+"Dr. Madnar is being held in the cell located in the inner courtyard."
+msgstr ""
+
+#, 0
+msgid ""
+"Thanks for saving me!\n"
+"If you have a parachute you can jump off from the edge of the barrier. "
+msgstr ""
+
+#, 0
+msgid ""
+"Thank you for helping me!\n"
+"\n"
+"Dr. Madnar was just transferred to Building 2.\n"
+"\n"
+"Building 2 is located 10km north of here."
+msgstr ""
+
+#, 0
+msgid ""
+"Thank you for helping me!\n"
+"Dr. Madnar is in the underground dungeon."
+msgstr ""
+
+#, 1
+msgid "Thanks!"
+msgstr ""
+
+#, 0
+msgid ""
+"Thanks for helping me!\n"
+"\n"
+"The only way out from this floor is to find the north elevator."
+msgstr ""
+
+#, 0
+msgid ""
+"Thanks for rescuing me!\n"
+"You'll need a compass to cross the desert."
+msgstr ""
+
+#, 0
+msgid ""
+"Thank you for saving me!\n"
+"You should be able to contact Jennifer from the Resistance on frequency 120.48.\n"
+"\n"
+"Jennifer will provide you with direct support.\n"
+"\n"
+"But she's very proud.\n"
+"\n"
+"Unless you're really high class, she won't respond."
+msgstr ""
+
+#, 0
+msgid ""
+"Thank you for helping me!\n"
+"The far end of the water works is connected to Building 3."
+msgstr ""
+
+#, 0
+msgid ""
+"Thanks for saving me!\n"
+"\n"
+"I'm Jennifer's brother.\n"
+"\n"
+"When you make your escape, climb the ladder on the left."
+msgstr ""
+
+#, 1
+msgid "Thanks, man."
+msgstr ""
+
+#, 1
+msgid "I'm saved!"
+msgstr ""
+
+#, 0
+msgid ""
+"Thank you for helping me!\n"
+"\n"
+"The Outer Heaven boss is FOXHOUND's commanding officer, Big Boss!\n"
+"\n"
+"He's behind all of this!! Don't let him trick you!!"
+msgstr ""
+
+#, 0
+msgid ""
+"I am Dr. Drago Pettrovich Madnar.\n"
+"\n"
+"Metal Gear is 20km north of this building. It's located 100 floors under Building 3.\n"
+"\n"
+"There is only one way to destroy Metal Gear. Attach plastic explosives to the legs of the unit where the armor is thin.\n"
+"\n"
+"The sequence is R-R-L-R-L-L-R-L-L-R-R-L-R-L-R... after that I don't remember.\n"
+"\n"
+"You have to attach 16 sets.\n"
+"\n"
+"The card that gets you out of Building 2 is with Bloody Brad. He's vulnerable to attacks from a rocket launcher.\n"
+"\n"
+"Good luck..."
+msgstr ""
+
+#, 0
+msgid ""
+"You fell into my trap!\n"
+"\n"
+"The real Dr. Madnar is on the second floor...\n"
+"\n"
+"Die FOXHOUND!!!"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""

@@ -1,0 +1,1316 @@
+begin_message
+
+THIS IS BIG BOSS...
+OPERATION INTRUDE N313.
+keyprompt
+
+PENETRATE THE ENEMY'S
+OUTER HEAVEN AND
+DESTOROY
+THE ULTIMATE WEAPON
+METAL GEAR!
+keyprompt
+
+FIRST,
+CONTACT MISSING
+GREY FOX AND SEARCH FOR
+METAL GEAR!
+keyprompt
+
+CONTACT IN THE BAND OF
+12085 FROM NOW ON.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+MISION!
+GAIN ACCESS TO
+THE ENEMY 'S FORTRESS,
+OUTER HEAVEN.
+keyprompt
+
+TAKE ACTION NOT TO BE
+DISCOVERED BY
+THE ENEMY.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+TAKE THE WEAPONS AND
+EQUIPMENTS FROM
+THE ENEMY'S LORRY!!
+keyprompt
+
+YOU SHOULD HAVE
+AN I.D.CARD TO OPEN
+THE DOOR.
+...OVER
+
+end_message
+
+
+begin_message
+
+DON'T MOVE!
+
+end_message
+
+
+begin_message
+
+YOU ARE CAPTURED!
+
+end_message
+
+
+begin_message
+
+THIS IS SOLID SNAKE...
+YOUR REPLY, PLEASE.
+
+end_message
+
+
+begin_message
+
+LISTEN! SOLID SNAKE...
+I'LL NEVER DIE...
+keyprompt
+
+I'LL GET YOU.
+ONE DAY.
+keyprompt
+
+SEE YOU AGAIN...
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+THERE MUST BE
+SOME RESISTANCE .
+keyprompt
+
+TRY TO CONTACT WITH
+THE TRANSCEIVER!
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS THE RESISTANCE
+LEADER, MR. SCHNEIDER...
+keyprompt
+
+I WILL BRIEF YOU ON
+THE FORTRESS DETAILS.
+PLEASE CONTACT ON
+WAVEBAND 12079.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+PUT ON A GAS MASK IN
+THE GAS ROOM.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS THE RESISTANCE
+LEADER, MR. SCHNEIDER...
+keyprompt
+
+GO TO THE SOUTH PART OF
+THE 1ST FLOOR TO GET
+YOUR MASK.
+...OVER
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+RESISTANCE, DIANE
+WILL SUPPORT YOU
+ON WAVEBAND 12033.
+
+end_message
+
+
+ RESCUED
+
+end_message
+
+
+begin_message
+
+THIS IS RADIO KNK.
+EMERGENCY NEWS FLASH!
+keyprompt
+
+THERE WAS APPARENTLY
+A TREMENDOUS EARTH
+TREMOR IN THE REGION OF
+GALZBURG, SOUTH AFRICA
+AT MIDNIGHT.
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+FOXHOUNDER
+INTRUDED
+A FEW DAYS AGO
+keyprompt
+
+AND IS SAFE NOW.
+keyprompt
+
+HE WAS CAPTURED BY
+THE ENEMY.
+
+end_message
+
+
+begin_message
+
+I'M SLEEPY.
+
+end_message
+
+
+begin_message
+
+OVERSLEPT!
+
+end_message
+
+
+begin_message
+
+PROBABLY,
+FOXHOUNDER
+GAINED ACCESS.
+keyprompt
+
+DON'T MAKE WAY
+FOR HIM,
+AT ANY COST.
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+WILL EXPLAIN HOW TO
+USE F-KEY.
+keyprompt
+
+F-1 KEY FOR PAUSE .
+F-2 KEY FOR SELECTING
+YOUR WEAPONS.
+F-3 KEY FOR SELECTING
+YOUR EQUIPMENTS.
+keyprompt
+
+F-4 KEY FOR
+TRANSCEIVER BAND.
+REMEMBER THESE WELL.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+keyprompt
+
+BREAK DOWN THE POWER
+SUPPLY BOX WITH
+THE REMOTE-CONTROL
+MISSILE TO GET RID OF
+THE HIGH-VOLTAGE.
+keyprompt
+
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+THE REMOTE-CONTROL
+MISSILE IS AVAILABLE IN
+THE SOUTHEASTERN AREA.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+WIND BARRIER IS
+EXTENDED ON
+THE ROOFTOP.
+keyprompt
+
+LOOK FOR
+THE BOMBBLASTSUIT TO
+BE INTO THE BARRIER.
+...OVER
+
+end_message
+
+
+begin_message
+
+NEXT,
+WE INTRODUCE
+METAL GEAR STAFF...
+keyprompt
+
+     MAIN PROGRAM
+
+    HIROYUKI FUKUI
+
+keyprompt
+
+      SUB PROGRAM
+
+    TOMONORI OSTUKA
+     KOJI TOYOHARA
+keyprompt
+
+    GRAPHIC DESIGN
+
+     MASAMI TABATA
+     AZUSA FUJIMOTO
+keyprompt
+
+   MAIN SOUND EFFECT
+
+      IKU MIZUTANI
+keyprompt
+
+   SUB SOUND EFFECT
+
+ SHIGEHIRO TAKENOUCHI
+    MOTOAKI FURUKAWA
+keyprompt
+
+      GAME DESIGN
+
+     HIDEO KOJIMA
+keyprompt
+
+     PRESENTED  BY
+
+        KONAMI
+
+         1987
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+CHECK YOUR EQUIPMENTS!
+CHECK IF YOU HAVE BEEN
+BUGGED BY THE ENEMY.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+THE BOMBBLASTSUIT
+CAN BE FOUND IN
+THE BASEMENT.
+...OVER
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+FOXHOUNDER
+CALLED
+GREY FOX MUST BE
+keyprompt
+
+CONFINED IN
+THE SECRET CELL.
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+THE BEST WAY OF
+GAINING ACCESS TO
+THE SECRET CELL,
+keyprompt
+
+IS TO ALLOW THE
+ENEMY TO CAPTURE
+YOU.
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+MOVE OUT ,AND LOCATE
+GREY FOX 'S SOLITARY
+CELL.
+keyprompt
+
+CHECK THE WALL!
+...OVER
+
+end_message
+
+
+begin_message
+
+I 'M GREY FOX.
+keyprompt
+
+THE ULTIMATE WEAPON
+METAL GEAR HAS
+keyprompt
+
+NUCLEAR WEAPONS
+DESIGNED FOR EVERY
+PART OF EARTH.
+keyprompt
+
+IF IT IS COMPLETED,
+NUCLEAR ATTACK
+keyprompt
+
+FROM ANYWHWRE
+keyprompt
+
+WILL BE
+POSSIBLE.
+keyprompt
+
+METAL GEAR MUST BE
+DESTOROYED,
+keyprompt
+
+BEFORE IT IS
+COMPLETED.
+keyprompt
+
+THERE IS ONLY ONE
+WAY TO DESTOROY
+METAL GEAR.
+keyprompt
+
+DR. PETTROVICH, WHO
+DEVELOPED IT KNOW
+THE ONLY METHOD.
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+TAKE BACK YOUR WEAPONS
+AND EQUIPMENTS,
+AND GET OUT OF HERE!
+keyprompt
+
+THEY MUST BE CONCEALED
+IN A ROOM.
+BREAK THE DOOR!
+...OVER
+
+end_message
+
+
+begin_message
+
+I TOOK BACK 
+THE WEAPONS
+AND EQUIPMENTS.
+
+end_message
+
+
+begin_message
+
+I'M SHOOT GUNNER!
+keyprompt
+
+NOBODY HAS
+keyprompt
+
+EVER BEEN ABLE TO
+ESCAPE FROM HERE.
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+keyprompt
+
+YOU SHOULD KNOCK
+THE WALL AND BLAST IT
+WHICH SOUNDS
+IRREGULARLY.
+...OVER
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+THE ONLY WAY TO
+REACH THE COURTYARD
+IS BY PARACHUTE.
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+DR. PETTROVICH IS
+CONFINED TO
+keyprompt
+
+A SOLITARY CELL IN
+THE COURTYARD.
+
+end_message
+
+
+begin_message
+
+I'M 
+MACHINEGUN KID!
+keyprompt
+
+I'LL NEVER LET
+YOU GO AHEAD!!
+
+end_message
+
+
+begin_message
+
+HELLO THIS IS DIANE...
+MACHINEGUN KID MUST BE
+KILLED BY
+REMOTE-CONTROL MISSILE.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+YOU CAN GET
+THE PARACHUTE ON
+THE 2ND FLOOR.
+...OVER
+
+end_message
+
+
+ RESCUED
+
+end_message
+
+
+begin_message
+
+HELLO THIS IS DIANE...
+HIND-D MUST BE
+DESTOROYED BY
+GRENADE LAUNCHER.
+...BYE
+
+end_message
+
+
+begin_message
+
+...DR. PETTROVICH.
+IT 'S TOO LATE.
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+DR. PETTROVICH WAS
+QUICKLY MOVED TO
+BUILDING NO .2.
+keyprompt
+
+BUILDING NO .2 LIES
+10KM TO THE NORTH
+FROM HERE.
+
+end_message
+
+
+begin_message
+
+I GOOFED!!
+THE LORRY
+STARTED TO MOVE!
+
+end_message
+
+
+begin_message
+
+HELLO THIS IS DIANE...
+DESTOROY THE TANK WITH
+THE LAND MINE.
+...BYE
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+CHECK POINT!
+keyprompt
+
+PUT ON
+AN ENEMY'S UNIFORM
+AND GAIN ACCESS.
+keyprompt
+
+WILL USE WAVEBAND 12013
+FOR FUTURE CONTACT.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+keyprompt
+
+ENEMY'S UNIFORM IS
+AVAILABLE IN
+THE BASEMENT OF
+BUILDING NO .1.
+keyprompt
+
+WILL CONTACT
+IN THE BAND OF 12026
+FROM NOW ON.
+...OVER
+
+end_message
+
+
+begin_message
+
+HELLO THIS IS DIANE...
+WILL CONTACT ON
+WAVEBAND 12091 FROM
+NOW ON.
+keyprompt
+
+...BYE
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+IT WAS JAMMING, BUT...
+OK NOW.
+...OVER
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+DR. PETTROVICH IS
+CONFINED IN
+THE BASEMENT.
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+LEAD YOU TO
+THE GAS ROOM!
+...OVER
+
+end_message
+
+
+ RESCUED
+
+end_message
+
+
+begin_message
+
+I'M FIRE TROOPER!
+keyprompt
+
+I WILL
+keyprompt
+
+BURN YOU ALIVE!
+
+end_message
+
+
+begin_message
+
+YOU ARE CAUGHT IN
+A TRAP.
+keyprompt
+
+IN FACT,
+keyprompt
+
+WE HAVE CONFINED
+DR. PETTROVICH ON
+THE SECOND FLOOR.
+keyprompt
+
+I WILL GET YOU
+FOXHOUNDER!
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+THE FLASH LIGHT CAN BE
+FOUND ON THE 1ST FLOOR.
+...OVER
+
+end_message
+
+
+begin_message
+
+HELLO THIS IS DIANE...
+PLEASE TAKE CARE,
+THERE MAY BE A PITFALL.
+...BYE
+
+end_message
+
+
+begin_message
+
+HELLO THIS IS DIANE...
+THE DOORKEEPER,
+MR. ARNOLD
+IS INVINCIBLE!
+ESCAPE!
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+YOU MUST HAVE
+A COMPASS TO CROSS
+THE DESERT.
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+YOU MIGHT BE ABLE
+TO CONTACT JENNIFER
+OF RESISTANCE ON
+keyprompt
+
+WAVEBAND 12048.
+keyprompt
+
+BUT SHE IS PROUD,
+AND
+WOULDN'T ANSWER,
+keyprompt
+
+IF YOU WERE NOT
+THE EXECUTIVE.
+
+end_message
+
+
+begin_message
+
+THIS IS JENNIFER...
+WILL ARRANGE
+A ROCKET LAUNCHER.
+keyprompt
+
+COME FOR
+A ROCKET LAUNCHER!
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS JENNIFER...
+WILL OPEN THE DOOR.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+THE COMPASS CAN BE
+FOUND ON THE 2ND FLOOR.
+...OVER
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+THE DITCH WILL LEAD
+YOU TO
+THE NO.3 BUILDING.
+
+end_message
+
+
+begin_message
+
+I'M DR. PETTROVICH.
+keyprompt
+
+MY DAUGHTER ELLEN
+WAS TAKEN
+AS HOSTAGE.
+keyprompt
+
+SAVE ELLEN
+OR, I WON'T DISCUSS
+METAL GEAR.
+
+end_message
+
+
+begin_message
+
+I'M DR. PETTROVICH.
+keyprompt
+
+METAL GEAR IS IN
+100TH BASEMENT OF
+BUILDING NO.3,
+keyprompt
+
+20KM TO THE NORTH
+OF HERE.
+keyprompt
+
+METAL GEAR CAN BE
+DESTOROYED
+IN ONLY ONE WAY.
+keyprompt
+
+ATTACH PLASTIC BOMB
+TO THE FOOT OF
+METAL GEAR.
+keyprompt
+
+R ,R ,L ,R ,L ,L ,R ,L ,L ,
+R ,R ,L ,R ,L ,R ,...
+IN ORDER .
+keyprompt
+
+I FORGOT
+THE REMAINDER.
+keyprompt
+
+ANYWAY,
+keyprompt
+
+SET 16 UNITS.
+keyprompt
+
+YOU CAN NOT,
+DESTOROY
+keyprompt
+
+IF YOU COMMIT
+AN ERROR
+IN THE ORDER.
+keyprompt
+
+MR. ARNOLD HAS
+AN I.D. CARD
+keyprompt
+
+TO GET OUT OF
+BUILDING NO.2.
+keyprompt
+
+YOU SHOULD USE
+A ROCKET LAUNCHER
+TO KILL MR. ARNOLD.
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+SECRET SUBWAY FROM
+THE SOUTHEAST LEADS YOU
+TO NO.1 BUILDING.
+...OVER
+
+end_message
+
+
+ COME IN
+
+end_message
+
+
+ HELP ME
+
+end_message
+
+
+begin_message
+
+THANK YOU.
+keyprompt
+
+I'M THE DAUGHTER OF
+DR. PETTROVICH,
+ELLEN.
+keyprompt
+
+MY FATHER WAS
+FORCED TO DEVELOP
+METAL GEAR.
+keyprompt
+
+PLEASE HELP
+MY FATHER
+URGENTLY.
+
+end_message
+
+
+begin_message
+
+HELLO THIS IS DIANE...
+AN ANTIDOTE IS GOOD FOR
+THE POISON OF
+A SCORPION.
+...BYE
+
+end_message
+
+
+ RESCUED
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+ENTER THE LEFT DOOR.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+CREEP INTO THE LORRY
+ON THE RIGHT SIDE.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS JENNIFER...
+YOU SHOULD BREAK DOWN
+THE WALL.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS JENNIFER...
+THERE IS AN OXYGEN
+CYLINDER BEYOND
+THE WALL.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS BIG BOSS...
+SOLID SNAKE!
+STOP THE OPERATION.
+SWITCH OFF YOUR MSX
+AT ONCE.
+keyprompt
+
+THIS IS THE COMMAND.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS JENNIFER...
+A CARD WHICH OPEN
+THE NEXT DOOR LIES IN
+THE EAST OF BUILDING 3.
+keyprompt
+
+THE EASTERN SIDE LEADS
+TO THE DITCH
+OF BUILDING 2.
+...OVER
+
+end_message
+
+
+begin_message
+
+THIS IS MR. SCHNEIDER...
+I HAVE DISCOVERED
+WHO THE BOSS OF
+OUTER HEAVEN IS.
+keyprompt
+
+THE BOSS IS ....
+keyprompt
+
+OH NO!!
+WHA .A .......
+
+end_message
+
+
+begin_message
+
+I'M COWARD DUCK!
+keyprompt
+
+YOU CAN'T
+keyprompt
+
+SHOOT ME,
+keyprompt
+
+CAN YOU?
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+I'M A BROTHER OF
+keyprompt
+
+JENNIFER.
+keyprompt
+
+CLIMB THE LEFT
+keyprompt
+
+LADDER
+keyprompt
+
+WHEN ESCAPING.
+
+end_message
+
+
+begin_message
+
+HELLO THIS IS DIANE...
+keyprompt
+
+USE THE HAND GUN TO
+CAPTURE THE PRISONERS,
+NOT TO KILL THEM.
+...BYE
+
+end_message
+
+
+begin_message
+
+THIS IS JENNIFER...
+COWARD DUCK HAS CARD 8.
+keyprompt
+
+MY BROTHER IS AMONG
+THE CAPTIVES .
+PLEASE DON'T KILL THEM.
+...OVER
+
+end_message
+
+
+begin_message
+
+RESCUED!
+keyprompt
+
+BOSS OF
+OUTER HEAVEN IS
+BIG BOSS,
+keyprompt
+
+GENERAL COMMANDANT
+OF FOXHOUND.
+keyprompt
+
+EVERYTHING IS DONE
+BY HIM.
+
+end_message
+
+
+begin_message
+
+THIS IS JENNIFER...
+YOU MUST RUN FAST.
+...OVER
+
+end_message
+
+
+begin_message
+
+SOLID SNAKE!
+YOU'VE FINALLY
+COME HERE.
+keyprompt
+
+YEAH, I'M BIG BOSS
+GENERAL COMMANDANT
+OF FOXHOUND.
+keyprompt
+
+AND IN CHARGE OF
+THIS FORTRESS,
+OUTER HEAVEN.
+keyprompt
+
+I GAVE YOU
+INSTRUCTIONS
+TO BRING BACK
+keyprompt
+
+FALSE INFORMATION
+OF METAL GEAR.
+keyprompt
+
+HOWEVER,
+YOU ACCOMPLISHED
+TOO MUCH.
+keyprompt
+
+YOU HAVE
+COMPLETELY SMASHED
+MY AMBITIONS.
+keyprompt
+
+SOLID SNAKE!!
+keyprompt
+
+I WILL NOT
+DIE ALONE.
+keyprompt
+
+YOU WILL JOIN ME.
+
+end_message
+
+
+begin_message
+
+THIS IS JENNIFER...
+YOU CAN EXTEND THE TIME
+LIMIT BY USING
+A CIGARETTE.
+keyprompt
+
+PLEASE RETURN IN
+SAFETY,
+SOLID SNAKE!
+
+end_message
+
+
+begin_message
+
+THIS IS DIANE...
+I DON'T KNOW HOW TO
+DEFEAT BIG BOSS.
+IT ALL DEPENDS ON YOU.
+SOLID SNAKE!
+keyprompt
+
+I LOVE....
+NO, IT WAS
+A MERE NOTHING!
+GOOD LUCK!!
+
+end_message
+
+
+begin_message
+
+EMERGENCY!!
+keyprompt
+
+EMERGENCY!!
+keyprompt
+
+THE
+SELF-DESTRUCTION
+SWITCH OF
+keyprompt
+
+OUTER HEAVEN HAS
+BEEN ACTIVATED.
+keyprompt
+
+ESCAPE QUICKLY!!
+
+end_message
+
+
+begin_message
+
+THIS IS SOLID SNAKE...
+METAL GEAR'S
+DESTRUCTION IS
+A SUCCESS.
+keyprompt
+
+OPERATION INTRUDE N313
+FINISHED!...
+keyprompt
+
+EVERYTHING IS FINISHED.
+keyprompt
+
+I WILL GO BACK NOW.
+...OVER
+
+end_message
+
+
+begin_message
+
+HELLO THIS IS DIANE...
+I SUPPOSE THEY HAVE
+A SILENCER.
+...BYE
+
+end_message

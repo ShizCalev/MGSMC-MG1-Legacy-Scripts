@@ -1,0 +1,166 @@
+#
+msgid ""
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Operation Intrude N313.\n"
+"Infiltrate the enemy's base Outer Heaven and destroy the ultimate weapon, Metal Gear!\n"
+"\n"
+"Let's go over the details first. Make contact with Gray Fox, and find the location of the ultimate weapon, Metal Gear.\n"
+"\n"
+"Let's use frequency 120.85 for all communications from now on.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"The mission is infiltration. Make sure that the enemy does not discover your whereabouts. \n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Outfit yourselves with weapons and equipment from the enemy's trucks and armory! Pick up ammunition on the way!\n"
+"\n"
+"You need a card to open the door. Look for the card.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Use the elevator to move from floor to floor. Remember where the elevators are. \n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Watch out for the surveillance cameras.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"The Resistance should be there. Try and contact them over the radio.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"I forgot to tell you. You'll need a gas mask for the gas room.\n"
+"\n"
+"Schneider, the leader of the Resistance, should be able to tell you where to get a gas mask.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"I forgot to tell you. In order to turn off the juice, you'll have to destroy the electrical power panel.\n"
+"\n"
+"You need an RC missile. Schneider, the leader of the Resistance, should be able to tell you where to get one.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"You will need to use camouflage in exposed locations. For example, maybe there's something you can wear on your\n"
+"\n"
+"head...\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Infiltration accomplished. Find the cell where they're holding Gray Fox.\n"
+"\n"
+"Check the walls!!\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Recover your weapons and equipment and get out of there!\n"
+"\n"
+"They've got to be hidden in a room somewhere. Punch your way through!\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"I forgot to tell you. Watch out for the infrared sensors. You'll need infrared goggles.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"I forgot to tell you. There's a wind barrier on the roof. Look for a bomb blast suit! \n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Inspections.\n"
+"Wear the enemy uniform and infiltrate!\n"
+"\n"
+"Let's use frequency 120.13 for all communications from now on.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"They are trying to jam our signal, but we are OK on this frequency.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Get in the truck on the right!\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Enter the door on your left.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Solid Snake! \n"
+"Abort the mission. Return immediately.\n"
+"\n"
+"This is an order!! Turn off\n"
+"your device at once!!\n"
+"OVER."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Inspect your equipment!!\n"
+"\n"
+"Have you been bugged by the enemy?\n"
+"...Over."
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""

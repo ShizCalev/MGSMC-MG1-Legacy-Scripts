@@ -1,0 +1,76 @@
+#
+msgid ""
+msgstr ""
+
+#, 4
+msgid ""
+"This is Jennifer...\n"
+"I'll prepare the rocket launcher for you. Come and get it.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Jennifer...\n"
+"I'll open the door.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Jennifer...\n"
+"Blow up the wall!!\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Jennifer...\n"
+"There should be an oxygen cylinder on the other side of the wall!!\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Jennifer!\n"
+"\n"
+"The card needed to open the doors from this point onwards can be found on the east side of Building 3. That location is connected to Building 2's water\n"
+"\n"
+"works.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Jennifer...\n"
+"Dirty Duck has card 8.\n"
+"\n"
+"My brother is among the captives! Please don't kill them...\n"
+"\n"
+"If anything happens to my brother, I won't help you anymore!"
+msgstr ""
+
+#, 4
+msgid ""
+"This is Jennifer!!\n"
+"Blow up the wall on the left!\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Jennifer!\n"
+"You're just gonna have to make a run for it! As long as you have some rations left, you'll be OK.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Jennifer!\n"
+"If you use a cigarette, you'll buy yourself some more time. Come back alive, got it?!\n"
+"Solid Snake..."
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""

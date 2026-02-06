@@ -1,0 +1,144 @@
+#
+msgid ""
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"\n"
+"I'll guide you around the inside of the base. Let's use frequency 120.79 to contact each other.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The gas mask is on the first floor, to the south.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The RC missiles are in the south-west.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The secret cell? Sorry, I don't know...\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"\n"
+"Knock on the walls and listen for a difference in sound. That's where you should set your explosives.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The bomb blast suit is in the basement.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The parachute is on the second floor.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The mine detector is on the roof.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The enemy uniform is in the basement of Building 1.\n"
+"\n"
+"Let's use frequency 120.26 from now on.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The north elevator can only take you to the higher floors.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The south elevator can only take you to the lower floors.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"This is the start of the gas room.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"\n"
+"Knock on the walls and listen for a difference in sound. That's where you should set your explosives.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"Just a little further to the north elevator.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The flashlight is on the first floor.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"The compass is on the second floor.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"A secret underground passageway starts from the south-west corner of the\n"
+"\n"
+"basement in Building 1.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Resistance Leader Schneider...\n"
+"I know who the Outer Heaven boss is!\n"
+"\n"
+"No way... The Outer Heaven boss is...\n"
+"\n"
+"...Oh no!!\n"
+"..."
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""

@@ -1,0 +1,328 @@
+#
+msgid ""
+msgstr ""
+
+#, 1
+msgid "Yawn! I'm sleepy!!"
+msgstr ""
+
+#, 1
+msgid "Fell asleep!"
+msgstr ""
+
+#, 1
+msgid "Shift change!!"
+msgstr ""
+
+#, 1
+msgid "Don't move!!"
+msgstr ""
+
+#, 1
+msgid "Take him away!"
+msgstr ""
+
+#, 26
+msgid "Recovered your weapons and equipment!"
+msgstr ""
+
+#, 26
+msgid "Arrgh! The truck's been moved!!"
+msgstr ""
+
+#, 26
+msgid "Dr. Madnar... Was I... too late?"
+msgstr ""
+
+#, 3
+msgid ""
+"It seems that FOXHOUND is trying to infiltrate the base. Whatever you do, do"
+" not let them through!"
+msgstr ""
+
+#, 1
+msgid "Go on in!"
+msgstr ""
+
+#, 1
+msgid "Help!"
+msgstr ""
+
+#, 2
+msgid "I can't carry any more."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Cigarettes."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Flashlight."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Oxygen Cylinder."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Rations."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Compass."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Binoculars."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Bomb Blast Suit."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Cardboard Box."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Infrared Goggles."
+msgstr ""
+
+#, 2
+msgid "Recovered your weapons and equipment!"
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Enemy Uniform."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Antenna."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Mine Detector."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Parachute."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Gas Mask."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Antidote."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Card 1."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Ammo."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Mine."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Plastic Explosive."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"RC Missile."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Handgun."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Submachine Gun."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Rocket Launcher."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Grenade Launcher."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Suppressor."
+msgstr ""
+
+#, 2
+msgid "Recovered your weapons and equipment!"
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Bandana."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Body Armor."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Card 2."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Card 3."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Card 4."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Card 5."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Card 6."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Card 7."
+msgstr ""
+
+#, 2
+msgid ""
+"Picked up\n"
+"Card 8."
+msgstr ""
+
+#, 5
+msgid ""
+"I am the Shotmaker!\n"
+"\n"
+"No one has ever escaped from here!"
+msgstr ""
+
+#, 5
+msgid ""
+"I'm the Machinegun Kid!\n"
+"This is the end of the line for you!"
+msgstr ""
+
+#, 5
+msgid ""
+"I am the Fire Trooper!\n"
+"I'll burn you to a crisp!"
+msgstr ""
+
+#, 5
+msgid ""
+"I am Dirty Duck!\n"
+"Go ahead and shoot - if you\n"
+"\n"
+"dare!"
+msgstr ""
+
+#, 5
+msgid ""
+"Emergency!\n"
+"\n"
+"Emergency!\n"
+"\n"
+"The self-destruct sequence for Outer Heaven has been\n"
+"\n"
+"initialized!\n"
+"\n"
+"All personnel are ordered to evacuate immediately!"
+msgstr ""
+
+#, 0
+msgid ""
+"Solid Snake! I've been expecting you...\n"
+"\n"
+"...I am the supreme commander of the FOXHOUND unit... And...\n"
+"\n"
+"The leader of the fortress of Outer Heaven, Big Boss!\n"
+"\n"
+"I gave this mission to you, a rookie, thinking I could use you to fool the rest of the world...\n"
+"\n"
+"But you were too good. You went too far!\n"
+"\n"
+"Solid Snake!\n"
+"\n"
+"I'm not going down alone. I'm taking you with me!\n"
+"\n"
+"Prepare to die!"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""

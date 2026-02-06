@@ -1,0 +1,1366 @@
+
+[beginning of game]
+
+BIG BOSS SPEAKING
+OPERATION INTRUDE N313.
+
+YOU ARE TO INFILTRATE
+THE ENEMY FORTRESS
+"OUTER HEAVEN" THEN
+DESTROY THEIR FINAL
+WEAPON METAL GEAR.
+
+FIRST,ATTEMPT TO CONTACT
+MISSING OUR "GREY FOX."
+THEN TRY TO FIND
+THE METAL GEAR.
+
+USE FREQUENCY 12085
+FOR ALL COMMUNICATION
+WITH ME.
+OVER.
+
+[in the binocular truck]
+
+BIG BOSS HERE.
+BINOCULARS?
+USE THEM TO LOOK
+AROUND YOU.
+
+YOU CAN CHECK DISTANT
+TOPOGRAPHY AND ENEMY
+POSITIONS.
+
+REMEMBER TO USE YOUR
+BIONOCULARS AT ALL
+TIMES.
+OVER.
+
+[in the areas that contain Cards #1 and #2]
+
+BIG BOSS HERE.
+A CARD?
+THAT CARD WILL OPEN
+A DOOR.
+
+BE CAREFUL.
+YOU NEED THE RIGHT
+NUMBER CARD FOR THE DOOR
+YOU WANT.
+OVER.
+
+[in some areas containing rations]
+
+BIG BOSS HERE.
+RATIONS?
+CAREFUL.THOSE ARE
+EMERGENCY FOOD SUPPLIES.
+
+DON'T EAT THEM NOW.
+SAVE THEM.
+OVER.
+
+[various rooms at the beginning of Building #1]
+
+BIG BOSS HERE.
+STEAL WEAPONS AND
+EQUIPMENT FROM ENEMY
+MUNITIONS CARRIERS.
+
+STEAL AMMUNITION FROM
+ENEMY GUARDS.
+
+YOU NEED THE RIGHT CARDS
+TO OPEN ENEMY DOORS.
+SEARCH FOR THE CARDS.
+OVER.
+
+[various rooms at the beginning of Building #1]
+
+BIG BOSS HERE.
+YOUR MISSION IS
+TO INFILTRATE!
+
+BE CAREFUL NOT TO LET
+ENEMY DETECT YOU.
+
+[in the gas mask room]
+
+BIG BOSS HERE.
+GAS MASK?
+USE IT IN GAS-FILLED
+AREAS.
+OVER.
+
+[various rooms in Building #1]
+
+BIG BOSS HERE.
+YOU CAN CHANGE FLOORS
+USING THE ELEVATOR.
+
+REMEMBER THE LOCATION
+OF ELEVATORS.
+OVER.
+
+[in the hand gun truck]
+
+BIG BOSS HERE.
+A HAND GUN?
+THAT IS A BERRETA M92F.
+
+YOU NEED TO KNOW HOW TO
+USE IT!
+LOOK FOR AMMUNITION.
+DON'T WASTE BULLETS!
+OVER.
+
+[in the mine truck east of the Building #1 first-floor elevator]
+
+BIG BOSS HERE.
+LAND MINE?
+YOU NEED TO KNOW HOW TO
+USE THEM!
+OVER
+
+[in the Building #1 third-floor camera rooms]
+
+BIG BOSS HERE.
+WATCH OUT FOR
+SURVEILLANCE CAMERAS!
+OVER.
+
+[various rooms on the third floor of Building #1]
+
+BIG BOSS HERE.
+THE RESISTANCE FIGHTERS
+ARE WAITING TO HEAR
+FROM YOU.
+
+CONTACT THEM BY RADIO.
+OVER.
+
+[various rooms on the third floor of Building #1]
+
+BIG BOSS HERE.
+THE AMOUNT OF AMMUNITION
+YOU CAN CARRY IS
+LIMITED. BE CAREFUL!
+OVER.
+
+[in the first gas room]
+
+BIG BOSS HERE.
+I FORGET TO TELL YOU
+SOMETHING!
+
+YOU WILL NEED YOUR GAS
+MASK IN GAS-COVERED
+AREAS!
+
+SCHNEIDER KNOWS THE
+LOCATION OF THE GAS
+MASK.
+OVER.
+
+[in the first "rolling pin" room]
+
+BIG BOSS HERE.
+PLASTIC EXPLOSIVE?
+YOU CAN USE IT ANYWHERE
+YOU LIKE.
+OVER.
+
+[in the first electric-floor room]
+
+BIG BOSS HERE.
+I FORGOT TO TELL YOU......
+DESTROY THE ELECTRIC
+CONTROL PANEL TO AVOID
+HIGH VOLTAGE SHOCKS.
+
+SCHNEIDER CAN TELL YOU
+THE LOCATION OF THE
+REMOTE CONTROL MISSILE.
+
+[in the remote-control missile room]
+
+BIG BOSS HERE.
+MISSILE?
+IT CAN BE FIRED BY
+REMOTE CONTROL.
+
+USE THEM TO CLEAR
+OBSTRUCTIONS.
+OVER.
+
+[in the cardboard box room]
+
+BIG BOSS HERE.
+CARDBOARD?
+
+WHAT'S GOING ON?
+ARE YOU PLANNING TO
+MOVE OR SOMETHING?
+OVER.
+
+[in the silencer room]
+
+BIG BOSS HERE.
+A SILENCER?
+USE IT TO MUFFLE YOUR
+GUNSHOTS.
+OVER.
+
+[in the grenade-launcher room]
+
+BIG BOSS HERE.
+IS THAT AN M79 GRENADE
+LAUNCHER?
+
+YOU NEED TO KNOW HOW
+TO USE IT.
+OVER.
+
+[at the beginning of the Building #1 roof]
+
+BIG BOSS HERE.
+I FORGOT TO TELL YOU......
+THERE ARE WINDOW
+BARRIERS INSTALLED
+ON THE ROOFTOP.
+
+SEARCH FOR A
+BOMB-BLAST SUIT.
+OVER.
+
+[in the SMG room]
+
+BIG BOSS HERE.
+A SUBMACHINE GUN!
+DO YOU MEAN AN
+INGRAM MAC11!
+
+YOU NEED TO KNOW HOW
+TO USE IT.
+OVER.
+
+[in the room east of Grey Fox]
+
+BIG BOSS HERE.
+INFILTRATION ACCOMPLI-
+SHED.
+
+NOW, LOCATE THE GREY
+FOX'S HIDDEN CELLS.
+CHECK THE WAY!
+OVER.
+
+[in some of the rooms near Grey Fox's prison]
+
+BIG BOSS HERE.
+RECAPTURE THE WEAPONS
+AND EQUIPMENT STOLEN
+FROM YOU BY THE ENEMY,
+THEN ESCAPE!
+
+THEY ARE HIDDEN IN ONE
+OF THE ROOMS.
+OVER.
+
+[???? I have no clue how to trigger this, but it obviously comes sometime after
+you retrieve your equipment before fighting The Shotgunner.]
+
+BIG BOSS HERE.
+CHECK YOUR EQUIPMENT!
+
+ARE YOU SURE THE ENEMY
+HAS NOT ATTACHED A
+TRANSMITTER OR SOMETHING
+TO YOU?
+OVER.
+
+[in the armor room]
+
+BIG BOSS HERE.
+BODY ARMOR?
+A MAN DOESN'T NEED
+BODY ARMOR!
+OVER.
+
+[in the bomb-blast suit room]
+
+BIG BOSS HERE.
+BOMB-BLAST SUIT?
+
+GOOD PROTECTION AGAINST
+EXPLOSIONS AND AIR
+BLASTS.
+OVER.
+
+[in the enemy uniform room]
+
+BIG BOSS HERE.
+ENEMY UNIFORMS?
+ARE THEY CUTE LITTLE
+SAILOR SUITS?
+OVER.
+
+[in the mine detector room]
+
+BIG BOSS HERE.
+A MINE DETECTOR?
+
+USE IT TO FIND YOUR WAY
+THROUGH ENEMY MINE
+FIELDS.
+OVER.
+
+[various rooms in Building #1]
+
+BIG BOSS HERE.
+YOU WILL NEED SOME SORT
+OF CAMOUFLAGE WHERE THE
+VISIBILITY IS GOOD.
+
+YOU KNOW -- COVER
+YOURSELF WITH SOMETHING,
+OR WHATEVER.
+
+[in the goggles room]
+
+BIG BOSS HERE.
+INFRARED GOGGLES?
+USE THEM TO SPOT
+INFRARED SENSORS.
+OVER.
+
+[in the iron glove room]
+
+BIG BOSS HERE.
+IRON GLOVE?
+USE IT TO TAP ON THE
+WALLS.
+OVER.
+
+[in the infrared-sensor rooms in Building #1]
+
+BIG BOSS HERE.
+I FORGOT TO TELL YOU......
+WATCH OUT FOR INFRARED
+SENSORS.
+
+YOU WILL NEED INFRARED
+GOGGLES.
+OVER.
+
+[in front of Building #2]
+
+BIG BOSS HERE.
+IT'S A ROADBLOCK.
+TRY TO SLIP THROUGH
+WEARING ENEMY UNIFORMS.
+
+SWITCH BIG BOSS
+COMMUNICATION FREQUENCY
+TO 12013.
+OVER.
+
+----------------------
+3.  Schneider (120.79)
+----------------------
+
+[various rooms on the Building #1 third floor]
+
+THIS IS SCHNEIDER,
+RESISTANCE LEADER.
+
+I WILL BRIEF YOU ON
+THE INTERIOR OF THE
+ENEMY FORTRESS.
+
+CONTACT ME ON FREQUENCY
+12079.
+OVER.
+
+[in the first gas room]
+
+THIS IS SCHNEIDER.
+YOU CAN FIND YOUR GAS
+MASK ON THE FIRST FLOOR,
+SOUTH SIDE.
+OVER.
+
+[in the first electric-floor room]
+
+SCHNEIDER HERE.
+THE REMOTE CONTROL
+MISSILE IS IN THE
+SOUTHWEST.
+OVER.
+
+[at the beginning of the Building #1 roof]
+
+SCHNEIDER HERE
+THE BOMB-BLAST SUIT IS
+ON THE 2ND FLOOR.
+OVER.
+
+[in some rooms near the prisoner who tells you that Grey Fox is in a hidden
+room]
+
+SCHNEIDER HERE
+SORRY, BUT I DON'T KNOW
+THE LOCATION OF THE
+HIDDEN CELL ROOM.
+OVER.
+
+[outside of the Building #1 back entrance]
+
+SCHNEIDER HERE.
+THE MINE DETECTOR IS ON
+THE ROOF.
+OVER.
+
+[in front of Building #2]
+
+THIS IS RESISTANCE
+LEADER SCHNEIDER.
+ENEMY UNIFORMS CAN BE
+FOUND IN BUILDING #4.
+
+SWITCH COMMUNICATION
+WITH ME TO FREQUENCY
+12016.
+OVER.
+
+------------------
+4.  Diane (120.33)
+------------------
+
+[in Twin Shot's area]
+
+HI THERE! THIS IS DIANE.
+DID YOU KNOW YOU CAN
+DESTROY "TWIN SHOT" WITH
+A GRENADE LAUNCHER?
+BYE BYE!
+
+[in The Machine-Gun Kid's room]
+
+HELLLOOO! THIS IS DIANE,
+YOUR RESISTANCE FIGHTER.
+
+THE MACHINE-GUN KID IS
+VULNERABLE TO REMOTE
+CONTROL MISSILES.
+BYE, NOW!
+
+[in the area with the tank]
+
+HI THERE, EVERYBODY.
+THIS IS DIANE AGAIN!
+
+TRY BLOWING UP THE TANKS
+WITH YOUR MINES.
+BYE BYE!
+
+[in front of Building #2]
+
+HI FOLKS! THIS IS DIANE.
+SWITCH YOUR COMMUNI-
+CATION CHANNEL TO ME
+OVER TO 12091.
+BYE!
+
+---------------------
+5.  Big Boss (120.13)
+---------------------
+
+[in the antenna room, after getting the antenna]
+
+BIG BOSS HERE.
+THAT WAS JAMMING OUR
+COMMUNICATIONS. BUT NOW
+EVERYTHING'S OK.
+OVER.
+
+[in the flashlight room]
+
+BIG BOSS HERE.
+A FLASHLIGHT?
+YOU NEED TO KNOW HOW
+TO USE IT.
+OVER.
+
+[in front of Building #3]
+
+BIG BOSS HERE.
+GET IN THE TRUCK OVER
+ON THE RIGHT.
+OVER.
+
+[beginning of Building #3]
+
+BIG BOSS HERE.
+GO THROUGH THE DOOR ON
+THE LEFT.
+OVER.
+
+(Note:  Both this chunk of text and the one above are attempts to keep Snake
+from completing his mission.  The "truck on the right" takes Snake back to an
+earlier part of the game, while the "door on the left" leads Snake directly
+into a pit trap.)
+
+[south of gas rooms in Building #3]
+
+BIG BOSS HERE.
+SOLID SNAKE!
+OPERATION "INTRUDE N313"
+CANCELED.
+REPEAT, CANCELED!
+
+RETURN TO BASE
+IMMEDIATELY!
+THIS IS AN ORDER!
+OVER.
+
+(Note:  Now he's just desperate.  "Pay no attention to the man behind the
+curtain!")
+
+----------------------
+6.  Schneider (120.16)
+----------------------
+
+[???? Presumably this message is found somewhere in Building #2.]
+
+SCHNEIDER HERE.
+THE NORTH ELEVATOR IS
+UP AHEAD THERE.
+OVER.
+
+[in front of the Building #2 north elevator]
+
+SCHNEIDER HERE.
+THE NORTH ELEVATOR ONLY
+GOES UP.
+OVER.
+
+[in front of the Building #2 south elevator]
+
+SCHNEIDER HERE.
+THE SOUTH ELEVATOR ONLY
+GOES DOWN.
+OVER.
+
+[south of the Arnolds (including the prisoner's cell) and on both ends of the
+desert]
+
+SCHNEIDER HERE.
+THE COMPASS IS ON THE
+2ND FLOOR.
+OVER.
+
+[beginning of Building #5]
+
+SCHNEIDER HERE.
+THERE IS A GAS-FILLED
+ROOM UP AHEAD.
+OVER.
+
+[various rooms in Building #5]
+
+THIS IS RESISTANCE
+LEADER SCHNEIDER.
+TAP ON THE WALLS.
+
+LOOK FOR A DOOR.
+IF YOU HAVE AN IRON
+GLOVE,YOU SHOUD BE ABLE
+TO FIND IT.
+OVER.
+
+[in Dr. Pettrovich's cell]
+
+SCHNEIDER HERE.
+
+TO GET TO BUILDING #4,
+TAKE THE HIDDEN UNDER-
+GROUND PASSAGEWAY FROM
+THE SOUTHWEST.
+OVER.
+
+[north end of the passage between Buildings #4 and #5]
+
+SCHNEIDER HERE.
+THE FLASHLIGHT IS
+IN BUILDING #5.
+OVER.
+
+[in the ammunition room near Coward Duck]
+
+SCHNEIDER HERE.
+
+WE HAVE UNMASKED THE
+LEADER OF ENEMY
+FORTRESS!
+
+IT'S UNBELIEVABLE, BUT
+THE ENEMY LEADER IS.........
+
+ARRRGGHHH!!
+
+------------------
+7.  Diane (120.91)
+------------------
+
+[in the Arnolds' room]
+
+HI THERE! THIS IS DIANE!
+THAT GUY ARNOLD GURDING
+THE DOOR THERE......HE'S
+INVINCIBLE!
+BETTER GET OUTTA HERE!
+
+[on both ends of the desert]
+
+(Note:  For some reason, you have to use Jennifer's frequency to get this
+message.)
+
+HI THERE! THIS IS DIANE!
+
+YOU'LL NEED YOUR
+ANTIDOTE IF YOU GET
+STUCK BY A SCORPION,
+YOU KNOW!
+BYE BYE!
+
+[in the pit-trap rooms between Buildings #4 and #5]
+
+HI! THIS IS DIANE!
+HOW ARE YOU DOING?
+DON'T FALL INTO ANY
+ENEMY PIT TRAPS!
+OVER.
+
+[in Coward Duck's room]
+
+HI THERE! THIS IS DIANE!
+
+THE ONLY WAY TO DEFECT
+THE ENEMY WITHOUT
+KILLING EACH OTHER IS
+TO USE THE HAND GUN!
+BYE!
+
+[in Big Boss' room]
+
+THIS IS DIANE!
+I DON'T KNOW ANY WAY TO
+DESTROY BIG BOSS!
+SOLID SNAKE, IT'S ALL
+UP TO YOU!
+
+OH! SOLID SNAKE!
+IF ONLY YOU AND I.........!
+NO, CANCEL THAT.........!
+GOOD LUCK.
+
+---------------------
+8.  Jennifer (120.48)
+---------------------
+
+(Note:  Jennifer will only talk if Snake has a four-star rank.)
+
+[east of the Arnolds]
+
+JENNIFER HERE.
+I'LL SET UP THE ROCKET
+LAUNCHERS.
+COME AND GET THEM!
+OVER.
+
+[outside of the compass room]
+
+JENNIFER HERE.
+I'VE GOT A COMPAS FOR
+YOU.
+OVER.
+
+[north of the oxygen tank room]
+
+JENNIFER HERE.
+LOOK FOR THE OXYGEN TANK
+OVER BEYOND THE DOOR.
+OVER.
+
+[south of gas rooms in Building #3]
+
+(Note:  For some reason, you have to use Schneider's old frequency to get this
+message.)
+
+JENNIFER HERE.
+THE CARD TO OPEN THE
+DOOR UP AHEAD IS IN THE
+EAST PART OF BUILDING
+#3.
+
+YOU CAN GET THERE
+THROUGH THE LOCK
+CONNECTING BUILDING #2.
+OVER.
+
+[in Coward Duck's room]
+
+JENNIFER HERE.
+COWARD DUCK HAS CARD #8.
+MY BROTHER IS IN THE
+PRISON.
+
+BE CAREFUL NOT TO KILL
+HIM! IF ANYTHING HAPPENS
+TO MY BROTHER, I CANNOT
+HELP YOU ANY MORE!
+
+[room south of the Super Computer]
+
+JENNIFER HERE.
+THE ONLY CHANCE IS TO
+RUN FOR IT.........NOW!
+OVER.
+
+[in Big Boss' room]
+
+JENNIFER HERE.
+IF YOU USE A CIGARETTE,
+IT WILL ADD MORE TIME TO
+THE TIMER!
+
+OH! SOLID SNAKE,
+COME BACK ALIVE.
+
+------------------
+9.  Steve (120.33)
+------------------
+
+[in the cell of the prisoner who tells you about Diane]
+
+THIS IS STEVE.
+DIANE?
+NO, DIANE IS OUT
+SHOPPING. SHE HASN'T
+COME BACK YET.........
+
+[outside of the Building #1 back entrance]
+
+THIS IS STEVE.
+DIANE?
+OH! DIANE IS IN THE
+SHOWER RIGHT NOW.........
+
+-------------------
+10.  Steve (120.91)
+-------------------
+
+[various areas on the Building #2 roof, as well as in Fire Trooper's room]
+
+THIS IS STEVE.
+DIANE?
+OH, IT'S YOU AGAIN!
+
+WOULD YOU PLEASE GO AWAY
+AND STOP PESTERING HER!
+
+-----------
+11.  Ending
+-----------
+
+[Solid Snake (120.13)]
+
+THIS IS SOLID SNAKE.
+THE METAL GEAR HAS BEEN
+DESTROYED.
+OPERATION "INTRUDE N313"
+IS A SUCCESS.
+
+IT'S ALL OVER.........
+EVERYTHING, AT LAST!
+SOLID SNAKE RETURNING
+TO BASE.
+OVER.
+
+[Radio Station KNK (120.77)]
+
+THIS IS STATION KNK
+BRINGING YOU A SPOT
+NEWS REPORT.
+
+TODAY AT DAWN THERE
+WAS APPARENTLY A LARGE
+SCALE EARTH TREMOR IN
+THE REGION OF GALZBURG,
+SOUTH AFRICA.........
+
+["Your Computer" (120.77)]
+
+THIS IS YOUR COMPUTER
+SPEAKING. HERE ARE
+THE CREATORS OF YOUR
+METAL GEAR GAME.
+
+MAIN PROGRAM
+YOSHIHIRO SUGIMOTO
+
+SUB PROGRAM
+MASAHIRO UENO
+
+GRAPHIC DESIGN
+CONPAGNO OGIKUBO
+
+SOUND EFFECT
+KAZUKI MURAOKA
+
+PRESENTED BY
+KONAMI
+1988 TOKYO
+
+!!!!!!!!!!!!
+B.  Dialogue
+!!!!!!!!!!!!
+
+Some of the bits of dialogue (mainly those bits spoken by enemy bosses) have
+unusual spacing.  This is because the message box is partially covered by an
+enemy sprite, so the text must be written around it.
+
+---------------
+1.  Solid Snake
+---------------
+
+[upon entering a transport truck]
+
+UH - OH!
+THE TRUCK HAVE
+STARTED TO MOVE!
+
+[upon getting your stuff back before fighting The Shotgunner]
+
+I HAVE RECAPTURED
+OUR WEAPONS AND
+EQUIPMENT.
+
+[in Dr. Pettrovich's old cell in Building #1]
+
+IS IT TOO LATE FOR
+DR.PETTROVICH?
+
+[The list below contains messages that appear when you get an item, and are
+self-explanatory.]
+
+I HAVE LOCATED
+SOME RATIONS.
+
+I HAVE LOCATED
+CARD #1.
+
+I HAVE LOCATED
+BINOCULARS.
+
+I HAVE LOCATED
+A HAND GUN.
+
+I HAVE LOCATED
+LAND MINES.
+
+I HAVE LOCATED
+THE AMMUNITION.
+
+I HAVE LOCATED
+A MISSILE.
+
+I HAVE LOCATED
+CARD #2.
+
+I HAVE LOCATED
+CARDBOARD.
+
+I HAVE LOCATED
+A SILENCER.
+
+I HAVE LOCATED
+A GRENADE LAUNCHER.
+
+I HAVE LOCATED
+CARD #4.
+
+I HAVE LOCATED
+A SUBMACHINE GUN.
+
+I HAVE LOCATED
+CARD #3.
+
+I HAVE LOCATED
+SOME BODY ARMOR.
+
+I HAVE LOCATED
+A BOMB-BLAST SUIT.
+
+I HAVE LOCATED SOME
+PLASTIC EXPLOSIVE.
+
+I HAVE LOCATED
+SOME ENEMY UNIFORMS.
+
+I HAVE LOCATED SOME
+INFRARED GOGGLES.
+
+I HAVE LOCATED
+AN IRON GLOVE.
+
+I HAVE LOCATED
+A MINE DETECTOR.
+
+I HAVE LOCATED
+A FLASHLIGHT.
+
+I HAVE LOCATED
+AN ANTENNA.
+
+I HAVE LOCATED
+CARD #5.
+
+I HAVE LOCATED
+CARD #6.
+
+I HAVE LOCATED THE
+ROCKET LAUNCHERS.
+
+I HAVE LOCATED
+THE COMPASS
+
+I HAVE LOCATED
+THE ANTIDOTE.
+
+I HAVE LOCATED
+CARD #8.
+
+I HAVE LOCATED
+THE GAS MASK.
+
+I HAVE LOCATED
+THE OXYGEN TANK.
+
+I HAVE LOCATED
+CARD #7.
+
+-------------
+2.  Prisoners
+-------------
+
+[generic prisoners]
+
+THAT WAS A CLOSE
+CALL!
+
+[prisoner southwest of the first gas room]
+
+THAT WAS A CLOSE
+CALL!
+
+FOX HOUNDER INFILT-
+RATED THE ENEMY
+SEVERAL DAYS AGO.
+
+THEY HAVE CAPTURED
+HIM,BUT HE IS ALIVE.
+
+[prisoner south of the main third-floor elevator room in Building #1]
+
+THAT WAS A CLOSE
+CALL!
+
+RESISTANCE FIGHTER
+DIANE WILL NOW
+SUPPORT US OVER
+
+FREQUENCY 12033.
+DIANE IS FAMILIAR
+WITH ENEMY ACTIVITY.
+
+[prisoner southwest of the main first-floor elevator room in Building #1]
+
+THAT WAS A CLOSE
+ONE!
+FOX HOUNDER AGENT
+
+"GREY FOX" IS LOCKED
+UP IN A HIDDEN
+SOLITARY CELL ROOM.
+
+[prisoner to the south of the last one]
+
+THAT WAS A CLOSE
+CALL!
+
+THE BEST WAY TO GET
+TO THE HIDDEN CELL
+ROOM IS TO LET THE
+
+ENEMY CAPTURE YOU
+ON PURPOSE!
+
+[Grey Fox]
+
+YOU MUST BE A
+NEWCOMER TO THE
+MOVEMENT.
+AM I EVER GLAD
+TO SEE YOU!
+
+I'M AGENT
+"GREY FOX!"
+
+THE ENEMY IS
+CONSTRUCTING THE
+FINAL WEAPON,THE
+"METAL GEAR."
+
+IT IS A WALKING
+TANK.
+
+IT HAS
+FULL NUCLEAR
+CAPABILITY AND
+CAN TRAVERSE ANY
+TYPE OF GROUND.
+
+IF THE ENEMY CAN
+COMPLETE THIS,
+THEY CAN LAUNCH
+A NUCLEAR ATTACK
+FROM ANY SPOT
+
+ON THE EARTH.
+
+THE METAL GEAR
+MUST BE DEST-
+ROYED BY ANY
+MEANS AVAILABLE
+BEFORE IT IS
+
+COMPLETED!
+THERE IS ONLY
+ONE WAY TO
+DESTROY IT.
+
+THE INVENTOR OF
+THE METAL GEAR,
+DR.PETTROVICH,
+IS THE ONLY ONE
+WHO KNOWS.
+
+DR.PETTROVICH IS
+BEING HELD PRI-
+SONER SOMEWHERE
+IN BUILDING #1.
+
+YOU MUST TRY TO
+FIND HIM!
+
+[prisoner next to Dr. Pettrovich's old cell in Building #1]
+
+THAT WAS A CLOSE
+CALL!
+
+DR.PETTROVICH HAS
+JUST BEEN MOVED TO
+BUILDING #2.
+
+BUILDING #2 IS
+LOCATED ABOUT 10 KM
+NORTH OF HERE.
+
+[prisoner east of The Machine-Gun Kid]
+
+THAT WAS A CLOSE
+CALL!
+DR.PETTROVICH IS
+
+BEING HELD PRISONER
+IN A CELL ON THE
+ROOFTOP.
+
+[prisoner on the roof of Building #2]
+
+THAT WAS A CLOSE
+CALL!
+
+DR.PETTROVICH IS ON
+THE 2ND FLOOR.
+
+[prisoner to the east of the start of the long underwater passage connecting
+Buildings #2 and #3]
+
+THAT WAS A CLOSE
+CALL!
+
+THE FAR END OF THE
+LOCK CONNECTS TO
+BUILDING #3.
+
+GO OUT OF BUILDING
+#2. ARNOLD HAS THE
+CARD TO THE DOOR.
+
+YOU CAN DEFEAT
+ARNOLD WITH A ROCKET
+LAUNCHER.
+
+[prisoner south of the Arnolds]
+
+THAT WAS A CLOSE
+CALL!
+
+CAN'T CROSS THE
+DESERT WITHOUT A
+COMPASS!
+
+[prisoner east of the Arnolds]
+
+THAT WAS A CLOSE
+CALL!
+TRY CONTACTING
+
+RESISTANCE FIGHTER
+"JENNIFER"
+ON WAVEBAND 12048.
+
+JENNIFER CAN GIVE
+YOU DIRECT SUPPORT.
+
+BUT BE CAREFUL.
+SHE'S A SNOB.
+SHE PROBABLY WON'T
+
+ANSWER YOU
+UNLESS YOU ARE
+PRETTY CLASSY!
+
+[Dr. Pettrovich, before saving Ellen]
+
+I AM
+DR.PETTROVICH.
+MY DAUGHTER
+ELLEN IS A
+HOSTAGE.
+
+IF WE DON'T
+RESCUE HER.........
+I CAN'T TALK TO
+YOU ABOUT THE
+METAL GEAR.
+
+ELLEN IS BEING
+HELD CAPTIVE
+SOMEWHERE IN
+BUILDING #4.
+PLEASE HELP ME!
+
+[???? I believe that you hear Ellen saying this eventually in the room next to
+her cell, but I'm not sure.]
+
+HELP!
+
+[Ellen]
+
+OH, THANK YOU!
+I AM
+DR.PETTROVICH'S
+DAUGHTER, ELLEN.
+
+MY FATHER WAS
+BLACKMAILED INTO
+CREATING THE
+AWFUL METAL
+GEAR.
+
+PLEASE HELP MY
+FATHER BEFORE
+IT'S TOO LATE!
+
+[Dr. Pettrovich, after saving Ellen]
+
+I AM
+DR.PETTROVICH.
+
+THE METAL GEAR
+IS LOCATED ABOUT
+20KM NORTH OF
+THIS BUILDING.
+
+IT IS IN SUB-
+BASEMENT 100 OF
+BUILDING #3.
+
+WE HAVE TO SET
+PLASTIC EXPLO-
+SIVES ON THE
+SUPERCOMPUTER
+
+THAT CONTROLS
+ALL THE METAL
+GEAR FUNCTIONS.
+
+NO MATTER WHAT,
+YOU HAVE TO SET
+16 PLASTIC
+EXPLOSIVES.
+GOOD LUCK!
+
+[Jennifer's brother]
+
+THAT WAS A CLOSE
+CALL!
+
+I AM JENNIFER'S
+BROTHER.
+
+WHEN YOU MAKE YOUR
+GETAWAY, TAKE THE
+ELEVATOR TO THE LEFT
+
+[prisoner south of B100 elevator in Building #3]
+
+THAT WAS A CLOSE
+CALL!
+
+THE LEADER OF THE
+ENEMY FORTRESS IS
+THE SUPREME
+
+COMMANDER OF
+"FOX HOUNDER,"
+THE BIG BOSS!
+
+HE HAS BEEN BEHIND
+EVERYTHING ALL
+ALONG!
+
+-----------
+3.  Enemies
+-----------
+
+[first guard, before falling asleep]
+
+I'M GETTING SLEEPY!!
+
+[first guard, after waking up]
+
+I FEEL ASLEEP!!
+
+[guard in front of Building #1, before leaving]
+
+OK, YOUR TURN!!
+
+[guard that takes you to prison, upon entering the truck]
+
+DON'T MOVE.
+
+[guard that takes you to prison, after approaching you]
+
+YOU'RE UNDER ARREST!
+
+[The Shotgunner]
+
+I AM THE SHOTGUNNER!
+NOBODY HAS EVER
+ESCAPED FROM HERE.
+
+[The Machine-Gun Kid]
+
+I AM THE
+MACHINE   GUN KID!
+
+DON'T TRY   TO GO
+ANY  FARTHER!
+
+[guards in front of Building #2 (if Snake is wearing the enemy uniform)]
+
+OK!!  IN WE GO!!
+
+[Fake Dr. Pettrovich]
+
+OUT-FOXED!
+THE REAL
+DR.PRTTROVICH IS
+IN BUILDING #5.
+DIE!FOX HOUNDER!
+
+[Fire Trooper]
+
+I AM A FIRE TROOPER!
+WANT  TO SEE ME
+ROAST  YOU ALIVE?
+
+[Coward Duck]
+
+I AM COWARD DUCK.
+
+YOU WANNA  TRY AND
+SHOOT ME ...... GO RIGHT
+AHEAD!
+
+[after destroying the Super Computer]
+
+EMERGENCY ALERT!
+
+EMERGENCY ALERT!
+
+THE ENEMY FOTRESS
+DESTRUCT MECHANISM
+HAS BEEN ACTIVATED!
+
+BEGIN PREPARATIONS
+FOR EVACUATION!
+
+[Big Boss]
+
+WELL,
+SOLID SNAKE,IT'S
+AMAZING THAT
+YOU'VE LASTED
+THIS LONG!
+
+YES, IT'S TRUE.
+NOT ONLY AM I
+THE FOX HOUNDER
+SUPREME COMMAN-
+DER,BIG BOSS,BUT
+
+I'VE BEEN THE
+LEADER OF THE
+ENEMY FORTRESS,
+TOO!
+
+AS A NEW AND
+INEXPERIENCED
+MEMBER OF OUR
+TEAM, YOU WERE
+SUPPOSED TO BE
+
+TRICKED INTO
+CARRYING FALSE
+INFORMATION.
+
+BUT...
+YOU ACCOMPLISHED
+TOO MUCH, SOLID
+SNAKE, YOU WERE
+TOO GOOD!
+
+DON'T THINK YOU
+CAN KILL ME SO
+EASILY!
+
+COME AND TRY.
+IF I AM GOING TO
+DIE, YOU'RE
+COMING WITH ME!

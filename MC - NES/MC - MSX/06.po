@@ -1,0 +1,156 @@
+#
+msgid ""
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Rations? They are emergency food supplies. Preserve what you don't eat.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Cards? These cards are used to open doors.\n"
+"\n"
+"The card numbers are different for certain doors. Be aware.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Binoculars?\n"
+"\n"
+"Use these to survey the surrounding area. With these, you can look out at distant terrain and check the enemy's positions. Make these binoculars your\n"
+"\n"
+"friend.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Gas mask? You use this in the gas room.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Handgun? You know how to use this, right?\n"
+"\n"
+"Look for ammunition. Don't waste a single bullet.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Mines? You know how to use these, right?\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Remember, there is a limit on the amount of ammunition you can carry.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Plastic explosives? You can set these explosives anywhere.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"RC missiles? These missiles can be controlled remotely. Use these in areas where there are a lot of obstacles.\n"
+"\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Suppressor? Attaching this to your weapon eliminates the noise of the shot.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Grenade launcher? You know how to use it, right?\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Cardboard box? Are you moving house or something?\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Submachine gun? You know how to use this, right?\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Enemy uniform? What, like a girl's high school uniform? \n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Bomb blast suit? This will protect you against explosions and strong winds.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Infrared goggles? These will allow you to see any infrared sensors.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Parachute? Make sure you put it on before you jump off anything high.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Mine detector? This will allow you to locate mines.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Flashlight? You know how to use this, right?\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Body armor? A real man wouldn't use any!\n"
+"...Over."
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""

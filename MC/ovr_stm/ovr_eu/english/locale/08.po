@@ -1,0 +1,99 @@
+#
+msgid ""
+msgstr ""
+
+#, 4
+msgid ""
+"This is Steve...\n"
+"Diane? If I know Diane she's gone shopping and won't have come back yet..."
+msgstr ""
+
+#, 4
+msgid ""
+"Hi, this is Diane...\n"
+"They have a suppressor.\n"
+"...Bye."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Steve...\n"
+"Diane? If I know Diane she'll be taking a shower right now..."
+msgstr ""
+
+#, 4
+msgid ""
+"Hi, this is Diane...\n"
+"The Machinegun Kid is vulnerable to attack by RC missiles.\n"
+"...Bye."
+msgstr ""
+
+#, 4
+msgid ""
+"Hi, this is Diane...\n"
+"The Hind D can be brought down with the grenade launcher.\n"
+"...Bye."
+msgstr ""
+
+#, 4
+msgid ""
+"Hi, this is Diane...\n"
+"Mines can destroy the tank.\n"
+"...Bye."
+msgstr ""
+
+#, 4
+msgid ""
+"Hi, this is Diane...\n"
+"Let's use frequency 120.91 to communicate from now on. Call me again, OK?\n"
+"...Bye."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Steve...\n"
+"Diane?\n"
+"Not you again!\n"
+"\n"
+"You better stay away from Diane!!"
+msgstr ""
+
+#, 4
+msgid ""
+"Hi, this is Diane...\n"
+"Bloody Brad, who's protecting the door, is indestructible!\n"
+"Run away!!"
+msgstr ""
+
+#, 4
+msgid ""
+"Hi, this is Diane. \n"
+"Are you OK? Look out for traps!\n"
+"...Bye."
+msgstr ""
+
+#, 4
+msgid ""
+"Hi, this is Diane...\n"
+"Use antidote against the scorpion poison.\n"
+"...Bye."
+msgstr ""
+
+#, 4
+msgid ""
+"Hi, this is Diane!\n"
+"The only way to win without killing your allies is to use the handgun.\n"
+"...Bye."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Diane!\n"
+"I don't know how to defeat Big Boss... Now it's all up to you! Solid Snake!\n"
+"\n"
+"... I... want to tell you... Er, nevermind... Be careful..."
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""

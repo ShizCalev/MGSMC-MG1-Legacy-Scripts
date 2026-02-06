@@ -1,0 +1,646 @@
+#
+msgid ""
+msgstr ""
+
+#, 0
+msgid "TRANSCEIVER"
+msgstr ""
+
+#, 0
+msgid "SEND"
+msgstr ""
+
+#, 0
+msgid "RECV"
+msgstr ""
+
+#, 0
+msgid " LIFE"
+msgstr ""
+
+#, 0
+msgid "CLASS"
+msgstr ""
+
+#, 0
+msgid "EQUIPMENT SELECT"
+msgstr ""
+
+#, 0
+msgid "WEAPON SELECT"
+msgstr ""
+
+#, 0
+msgid "ACCESSORY"
+msgstr ""
+
+#, 0
+msgid "  GAME START"
+msgstr ""
+
+#, 0
+msgid "  LOAD GAME"
+msgstr ""
+
+#, 0
+msgid "  INSTRUCTIONS"
+msgstr ""
+
+#, 0
+msgid "  BOSS SURVIVAL"
+msgstr ""
+
+#, 0
+msgid "DIFFICULTY LEVEL"
+msgstr ""
+
+#, 0
+msgid "ORIGINAL"
+msgstr ""
+
+#, 0
+msgid "EASY"
+msgstr ""
+
+#, 0
+msgid "BACK"
+msgstr ""
+
+#, 0
+msgid " "
+msgstr ""
+
+#, 0
+msgid ""
+"Handgun\n"
+"Pistol. Push the X button to shoot one round at a time. Can be fitted with a suppressor."
+msgstr ""
+
+#, 0
+msgid ""
+"Mine\n"
+"These mines can be primed by the player. Up to three can be set on the same screen."
+msgstr ""
+
+#, 0
+msgid ""
+"Plastic Explosive \n"
+"These explosives are set and a timer is used to control the detonation. Only one can be set per screen."
+msgstr ""
+
+#, 0
+msgid ""
+"RC Missile\n"
+"Use the D-pad to control the path of the missile. Player cannot move while controlling the missile."
+msgstr ""
+
+#, 0
+msgid ""
+"Grenade Launcher\n"
+"Fires grenades."
+msgstr ""
+
+#, 0
+msgid ""
+"Submachine Gun\n"
+"Pressing and holding down the X button triggers continuous fire. Can be fitted with a suppressor."
+msgstr ""
+
+#, 0
+msgid ""
+"Rocket Launcher\n"
+"A formidable weapon that shoots rockets."
+msgstr ""
+
+#, 0
+msgid ""
+"Cigarettes\n"
+"Surgeon General's Warning:\n"
+"Cigarette smoking may be hazardous to your health."
+msgstr ""
+
+#, 0
+msgid ""
+"Flashlight\n"
+"Useful when walking down subterranean passageways."
+msgstr ""
+
+#, 0
+msgid ""
+"Oxygen Cylinder\n"
+"Using the oxygen cylinder in the water will preserve your LIFE gauge."
+msgstr ""
+
+#, 0
+msgid ""
+"Rations\n"
+"Replenishes LIFE gauge."
+msgstr ""
+
+#, 0
+msgid ""
+"Compass\n"
+"Use this to cross the desert."
+msgstr ""
+
+#, 0
+msgid ""
+"Binoculars\n"
+"Allow you to see the one screen up, down, left, or right of your present location. Cannot be used indoors."
+msgstr ""
+
+#, 0
+msgid ""
+"Bomb Blast Suit\n"
+"Protects the wearer from strong winds and explosive blasts. Protective clothing for bomb disposal work."
+msgstr ""
+
+#, 0
+msgid ""
+"Cardboard Box\n"
+"?"
+msgstr ""
+
+#, 0
+msgid ""
+"Infrared Goggles\n"
+"Wear these to discover the location of infrared sensors."
+msgstr ""
+
+#, 0
+msgid ""
+"Transmitter\n"
+"?"
+msgstr ""
+
+#, 0
+msgid ""
+"Enemy Uniform\n"
+"?"
+msgstr ""
+
+#, 0
+msgid ""
+"Antenna\n"
+"You can send and receive communications using the antenna, even when you are in an enemy jamming zone."
+msgstr ""
+
+#, 0
+msgid ""
+"Mine Detector\n"
+"Use this to discover the location of mines."
+msgstr ""
+
+#, 0
+msgid ""
+"Parachute\n"
+"Use this to drop down from the roof."
+msgstr ""
+
+#, 0
+msgid ""
+"Gas Mask\n"
+"Required for the gas room."
+msgstr ""
+
+#, 0
+msgid ""
+"Antidote\n"
+"Cures poison, so your LIFE gauge does not decrease."
+msgstr ""
+
+#, 0
+msgid ""
+"Cards\n"
+"These cards open doors. Card numbers will differ, depending on the type of door."
+msgstr ""
+
+#, 0
+msgid ""
+"Bandana\n"
+"Solid Snake's bandana.\n"
+"∞ (infinity) symbol is\n"
+"sewn in."
+msgstr ""
+
+#, 0
+msgid ""
+"Body Armor\n"
+"Halves the damage caused by enemy weapons."
+msgstr ""
+
+#, 0
+msgid "MENU"
+msgstr ""
+
+#, 0
+msgid "MENU"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""
+
+#, 0
+msgid "      END THIS GAME?"
+msgstr ""
+
+#, 0
+msgid "YES"
+msgstr ""
+
+#, 0
+msgid "NO"
+msgstr ""
+
+#, 0
+msgid "    GAME OVER    "
+msgstr ""
+
+#, 0
+msgid "CONTINUE"
+msgstr ""
+
+#, 0
+msgid "EXIT"
+msgstr ""
+
+#, 0
+msgid " TIME"
+msgstr ""
+
+#, 0
+msgid "???"
+msgstr ""
+
+#, 0
+msgid "Big Boss"
+msgstr ""
+
+#, 0
+msgid "Schneider"
+msgstr ""
+
+#, 0
+msgid "Diane"
+msgstr ""
+
+#, 0
+msgid "Jennifer"
+msgstr ""
+
+#, 0
+msgid "BOSS SURVIVAL"
+msgstr ""
+
+#, 0
+msgid "BEST RECORD ( EASY )"
+msgstr ""
+
+#, 0
+msgid "RESULT ( EASY )"
+msgstr ""
+
+#, 0
+msgid "Shotmaker"
+msgstr ""
+
+#, 0
+msgid "Machinegun Kid"
+msgstr ""
+
+#, 0
+msgid "Hind D"
+msgstr ""
+
+#, 0
+msgid "Tank"
+msgstr ""
+
+#, 0
+msgid "Fire Trooper"
+msgstr ""
+
+#, 0
+msgid "Dirty Duck"
+msgstr ""
+
+#, 0
+msgid "Metal Gear"
+msgstr ""
+
+#, 0
+msgid "Big Boss"
+msgstr ""
+
+#, 0
+msgid "TOTAL TIME"
+msgstr ""
+
+#, 0
+msgid "__ : __"
+msgstr ""
+
+#, 0
+msgid " : "
+msgstr ""
+
+#, 0
+msgid "CODE NAME"
+msgstr ""
+
+#, 0
+msgid "CHICKEN"
+msgstr ""
+
+#, 0
+msgid "TURTLE"
+msgstr ""
+
+#, 0
+msgid "HIPPOPOTAMUS"
+msgstr ""
+
+#, 0
+msgid "ELEPHANT"
+msgstr ""
+
+#, 0
+msgid "DEER"
+msgstr ""
+
+#, 0
+msgid "ZEBRA"
+msgstr ""
+
+#, 0
+msgid "JACKAL"
+msgstr ""
+
+#, 0
+msgid "PANTHER"
+msgstr ""
+
+#, 0
+msgid "EAGLE"
+msgstr ""
+
+#, 0
+msgid "FOX"
+msgstr ""
+
+#, 0
+msgid "BIG BOSS"
+msgstr ""
+
+#, 0
+msgid "DIFFICULTY LEVEL"
+msgstr ""
+
+#, 0
+msgid "NORMAL"
+msgstr ""
+
+#, 0
+msgid "EASY"
+msgstr ""
+
+#, 0
+msgid "GAME START"
+msgstr ""
+
+#, 0
+msgid "BACK"
+msgstr ""
+
+#, 0
+msgid "  CONTINUE GAME"
+msgstr ""
+
+#, 0
+msgid "  QUIT GAME"
+msgstr ""
+
+#, 0
+msgid "  DATA SAVE"
+msgstr ""
+
+#, 0
+msgid "  DATA LOAD"
+msgstr ""
+
+#, 0
+msgid "CHICKEN"
+msgstr ""
+
+#, 0
+msgid "TURTLE"
+msgstr ""
+
+#, 0
+msgid "HIPPOPOTAMUS"
+msgstr ""
+
+#, 0
+msgid "ELEPHANT"
+msgstr ""
+
+#, 0
+msgid "DEER"
+msgstr ""
+
+#, 0
+msgid "ZEBRA"
+msgstr ""
+
+#, 0
+msgid "JACKAL"
+msgstr ""
+
+#, 0
+msgid "PANTHER"
+msgstr ""
+
+#, 0
+msgid "EAGLE"
+msgstr ""
+
+#, 0
+msgid "FOX"
+msgstr ""
+
+#, 0
+msgid "BIG BOSS"
+msgstr ""
+
+#, 0
+msgid "Shotmaker"
+msgstr ""
+
+#, 0
+msgid "Machinegun Kid"
+msgstr ""
+
+#, 0
+msgid "Hind D"
+msgstr ""
+
+#, 0
+msgid "Tank"
+msgstr ""
+
+#, 0
+msgid "Fire Trooper"
+msgstr ""
+
+#, 0
+msgid "Dirty Duck"
+msgstr ""
+
+#, 0
+msgid "Metal Gear"
+msgstr ""
+
+#, 0
+msgid "Big Boss"
+msgstr ""
+
+#, 0
+msgid "RESULT"
+msgstr ""
+
+#, 0
+msgid "DIFFICULTY"
+msgstr ""
+
+#, 0
+msgid "EASY"
+msgstr ""
+
+#, 0
+msgid "ORIGINAL"
+msgstr ""
+
+#, 0
+msgid "PLAY TIME"
+msgstr ""
+
+#, 0
+msgid "SAVE"
+msgstr ""
+
+#, 0
+msgid "CONTINUE"
+msgstr ""
+
+#, 0
+msgid "ALERT MODE"
+msgstr ""
+
+#, 0
+msgid "HUMANS KILLED"
+msgstr ""
+
+#, 0
+msgid "RATION USED"
+msgstr ""
+
+#, 0
+msgid "SPECIAL ITEM"
+msgstr ""
+
+#, 0
+msgid "USED"
+msgstr ""
+
+#, 0
+msgid "NOT USED"
+msgstr ""
+
+#, 0
+msgid "CODE NAME"
+msgstr ""
+
+#, 0
+msgid "BEST RECORD ( EASY )"
+msgstr ""
+
+#, 0
+msgid "RESULT ( EASY )"
+msgstr ""
+
+#, 0
+msgid "TOTAL TIME"
+msgstr ""
+
+#, 0
+msgid "CODE NAME"
+msgstr ""
+
+#, 0
+msgid "NORMAL"
+msgstr ""
+
+#, 0
+msgid "EASY"
+msgstr ""
+
+#, 0
+msgid "BACK"
+msgstr ""
+
+#, 0
+msgid "GAME START"
+msgstr ""
+
+#, 0
+msgid "MISSION RECORD"
+msgstr ""
+
+#, 0
+msgid "TELESCOPE MODE"
+msgstr ""
+
+#, 0
+msgid "  END GAME"
+msgstr ""
+
+#, 0
+msgid "BEST RECORD ( NORMAL )"
+msgstr ""
+
+#, 0
+msgid "RESULT ( NORMAL )"
+msgstr ""
+
+#, 0
+msgid "  INSTRUCTIONS"
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""

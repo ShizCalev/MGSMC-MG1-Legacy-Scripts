@@ -1,0 +1,25 @@
+#
+msgid ""
+msgstr ""
+
+#, 4
+msgid ""
+"This is Big Boss...\n"
+"Operation Intrude N313.\n"
+"Infiltrate the enemy's base Outer Heaven and destroy the ultimate weapon, Metal Gear!\n"
+"\n"
+"Let's go over the details first. Make contact with Gray Fox, and find the location of the ultimate weapon, Metal Gear.\n"
+"\n"
+"Let's use frequency 120.85 for all communications from now on.\n"
+"...Over."
+msgstr ""
+
+#, 4
+msgid ""
+"This is Solid Snake...\n"
+"Come in."
+msgstr ""
+
+#, 0
+msgid "-"
+msgstr ""
