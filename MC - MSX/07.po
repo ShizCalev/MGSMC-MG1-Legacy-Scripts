@@ -36,17 +36,17 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Resistance Leader Schneider...\n"
-"The secret cell? Sorry, I don't know...\n"
-"...Over."
+"THIS IS RESISTANCE LEADER SCHNEIDER...\n"
+"THE SECRET CELL? SORRY, I DON'T KNOW...\n"
+"...OVER"
 msgstr ""
 
 #, 4
 msgid ""
-"This is Resistance Leader Schneider...\n"
+"THIS IS RESISTANCE LEADER SCHNEIDER...\n"
 "\n"
-"Knock on the walls and listen for a difference in sound. That's where you should set your explosives.\n"
-"...Over."
+"KNOCK ON THE WALLS AND LISTEN FOR A DIFFERENCE IN SOUND. THAT'S WHERE YOU SHOULD SET YOUR EXPLOSIVES.\n"
+"...OVER"
 msgstr ""
 
 #, 4
@@ -69,9 +69,9 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Resistance Leader Schneider...\n"
-"The mine detector is on the roof.\n"
-"...Over."
+"THIS IS RESISTANCE LEADER SCHNEIDER...\n"
+"THE MINE DETECTOR IS ON THE ROOF.\n"
+"...OVER"
 msgstr ""
 
 #, 4
@@ -91,16 +91,16 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Resistance Leader Schneider...\n"
-"The north elevator can only take you to the higher floors.\n"
-"...Over."
+"THIS IS RESISTANCE LEADER SCHNEIDER...\n"
+"THE NORTH ELEVATOR CAN ONLY TAKE YOU TO THE HIGHER FLOORS.\n"
+"...OVER"
 msgstr ""
 
 #, 4
 msgid ""
-"This is Resistance Leader Schneider...\n"
-"The south elevator can only take you to the lower floors.\n"
-"...Over."
+"THIS IS RESISTANCE LEADER SCHNEIDER...\n"
+"THE SOUTH ELEVATOR CAN ONLY TAKE YOU TO THE LOWER FLOORS.\n"
+"...OVER"
 msgstr ""
 
 #, 4
@@ -124,9 +124,9 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Resistance Leader Schneider...\n"
-"Just a little further to the north elevator.\n"
-"...Over."
+"THIS IS RESISTANCE LEADER SCHNEIDER...\n"
+"JUST A LITTLE FURTHER TO THE NORTH ELEVATOR.\n"
+"...OVER"
 msgstr ""
 
 #, 4

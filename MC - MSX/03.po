@@ -148,8 +148,8 @@ msgstr ""
 
 #, 0
 msgid ""
-"Thanks for saving me!\n"
-"If you have a parachute you can jump off from the edge of the barrier. "
+"RESUCED!\n"
+"IF YOU HAVE A PARACHUTE YOU CAN JUMP OFF FROM THE EDGE OF THE BARRIER. "
 msgstr ""
 
 #, 0
@@ -180,9 +180,9 @@ msgstr ""
 
 #, 0
 msgid ""
-"Thanks for helping me!\n"
+"RESCUED!\n"
 "\n"
-"The only way out from this floor is to find the north elevator."
+"THE ONLY WAY OUT FROM THIS FLOOR IS TO FIND THE NORTH ELEVATOR."
 msgstr ""
 
 #, 0

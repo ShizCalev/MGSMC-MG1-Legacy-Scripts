@@ -4,8 +4,8 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Steve...\n"
-"Diane? If I know Diane she's gone shopping and won't have come back yet..."
+"THIS IS STEVE...\n"
+"DIANE? IF I KNOW DIANE SHE'S GONE SHOPPING AND WON'T HAVE COME BACK YET..."
 msgstr ""
 
 #, 4
@@ -18,8 +18,8 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Steve...\n"
-"Diane? If I know Diane she'll be taking a shower right now..."
+"THIS IS STEVE...\n"
+"DIANE? IF I KNOW DIANE SHE'LL BE TAKING A SHOWER RIGHT NOW..."
 msgstr ""
 
 #, 4
@@ -60,11 +60,11 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Steve...\n"
-"Diane?\n"
-"Not you again!\n"
+"THIS IS STEVE...\n"
+"DIANE?\n"
+"NOT YOU AGAIN!\n"
 "\n"
-"You better stay away from Diane!!"
+"YOU BETTER STAY AWAY FROM DIANE!!"
 msgstr ""
 
 #, 4
@@ -104,8 +104,7 @@ msgid ""
 msgstr ""
 
 #, 4
-"begin_message\n"
-"\n"
+msgid ""
 "THIS IS DIANE...\n"
 "I DON'T KNOW HOW TO\n"
 "DEFEAT BIG BOSS.\n"

@@ -67,159 +67,56 @@ msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Cigarettes."
+"PICKED UP\n"
+"CIGARETTES."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Flashlight."
+"PICKED UP\n"
+"FLASHLIGHT."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Oxygen Cylinder."
+"PICKED UP\n"
+"OXYGEN CYLINDER."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Rations."
+"PICKED UP\n"
+"RATIONS."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Compass."
+"PICKED UP\n"
+"COMPASS."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Binoculars."
+"PICKED UP\n"
+"BINOCULARS."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Bomb Blast Suit."
+"PICKED UP\n"
+"BOMB BLAST SUIT."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Cardboard Box."
+"PICKED UP\n"
+"CARDBOARD BOX."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Infrared Goggles."
-msgstr ""
-
-#, 2
-msgid ""
-"I TOOK BACK \n"
-"THE WEAPONS\n"
-"AND EQUIPMENTS."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Enemy Uniform."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Antenna."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Mine Detector."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Parachute."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Gas Mask."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Antidote."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Card 1."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Ammo."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Mine."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Plastic Explosive."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"RC Missile."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Handgun."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Submachine Gun."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Rocket Launcher."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Grenade Launcher."
-msgstr ""
-
-#, 2
-msgid ""
-"Picked up\n"
-"Suppressor."
+"PICKED UP\n"
+"INFRARED GOGGLES."
 msgstr ""
 
 #, 2
@@ -231,56 +128,159 @@ msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Bandana."
+"PICKED UP\n"
+"ENEMY UNIFORM."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Body Armor."
+"PICKED UP\n"
+"ANTENNA."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Card 2."
+"PICKED UP\n"
+"MINE DETECTOR."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Card 3."
+"PICKED UP\n"
+"PARACHUTE."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Card 4."
+"PICKED UP\n"
+"GAS MASK."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Card 5."
+"PICKED UP\n"
+"ANTIDOTE."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Card 6."
+"PICKED UP\n"
+"CARD 1."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Card 7."
+"PICKED UP\n"
+"AMMO."
 msgstr ""
 
 #, 2
 msgid ""
-"Picked up\n"
-"Card 8."
+"PICKED UP\n"
+"MINE."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"PLASTIC EXPLOSIVE."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"RC MISSILE."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"HANDGUN."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"SUBMACHINE GUN."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"ROCKET LAUNCHER."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"GRENADE LAUNCHER."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"SUPPRESSOR."
+msgstr ""
+
+#, 2
+msgid ""
+"I TOOK BACK \n"
+"THE WEAPONS\n"
+"AND EQUIPMENTS."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"BANDANA."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"BODY ARMOR."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"CARD 2."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"CARD 3."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"CARD 4."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"CARD 5."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"CARD 6."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"CARD 7."
+msgstr ""
+
+#, 2
+msgid ""
+"PICKED UP\n"
+"CARD 8."
 msgstr ""
 
 #, 5

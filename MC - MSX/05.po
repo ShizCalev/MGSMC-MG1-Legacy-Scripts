@@ -52,16 +52,16 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Big Boss...\n"
-"Use the elevator to move from floor to floor. Remember where the elevators are. \n"
-"...Over."
+"THIS IS BIG BOSS...\n"
+"USE THE ELEVATOR TO MOVE FROM FLOOR TO FLOOR. REMEMBER WHERE THE ELEVATORS ARE. \n"
+"...OVER"
 msgstr ""
 
 #, 4
 msgid ""
-"This is Big Boss...\n"
-"Watch out for the surveillance cameras.\n"
-"...Over."
+"THIS IS BIG BOSS...\n"
+"WATCH OUT FOR THE SURVEILLANCE CAMERAS.\n"
+"...OVER"
 msgstr ""
 
 #, 4
@@ -85,20 +85,20 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Big Boss...\n"
-"I forgot to tell you. In order to turn off the juice, you'll have to destroy the electrical power panel.\n"
+"THIS IS BIG BOSS...\n"
+"I FORGOT TO TELL YOU. IN ORDER TO TURN OFF THE JUICE, YOU'LL HAVE TO DESTROY THE ELECTRICAL POWER PANEL.\n"
 "\n"
-"You need an RC missile. Schneider, the leader of the Resistance, should be able to tell you where to get one.\n"
-"...Over."
+"YOU NEED AN RC MISSILE. SCHNEIDER, THE LEADER OF THE RESISTANCE, SHOULD BE ABLE TO TELL YOU WHERE TO GET ONE.\n"
+"...OVER"
 msgstr ""
 
 #, 4
 msgid ""
-"This is Big Boss...\n"
-"You will need to use camouflage in exposed locations. For example, maybe there's something you can wear on your\n"
+"THIS IS BIG BOSS...\n"
+"YOU WILL NEED TO USE CAMOUFLAGE IN EXPOSED LOCATIONS. FOR EXAMPLE, MAYBE THERE'S SOMETHING YOU CAN WEAR ON YOUR\n"
 "\n"
-"head...\n"
-"...Over."
+"HEAD...\n"
+"...OVER"
 msgstr ""
 
 #, 4
@@ -127,9 +127,9 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Big Boss...\n"
-"I forgot to tell you. Watch out for the infrared sensors. You'll need infrared goggles.\n"
-"...Over."
+"THIS IS BIG BOSS...\n"
+"I FORGOT TO TELL YOU. WATCH OUT FOR THE INFRARED SENSORS. YOU'LL NEED INFRARED GOGGLES.\n"
+"...OVER"
 msgstr ""
 
 #, 4
