@@ -31,9 +31,10 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Big Boss...\n"
-"Gas mask? You use this in the gas room.\n"
-"...Over."
+"THIS IS BIG BOSS...\n"
+"PUT ON A GAS MASK IN\n"
+"THE GAS ROOM.\n"
+"...OVER"
 msgstr ""
 
 #, 4

@@ -3,11 +3,11 @@ msgid ""
 msgstr ""
 
 #, 1
-msgid "Yawn! I'm sleepy!!"
+msgid "I'M SLEEPY."
 msgstr ""
 
 #, 1
-msgid "Fell asleep!"
+msgid "OVERSLEPT!"
 msgstr ""
 
 #, 1
@@ -19,33 +19,46 @@ msgid "Don't move!!"
 msgstr ""
 
 #, 1
-msgid "Take him away!"
+msgid "DON'T MOVE!"
 msgstr ""
 
 #, 26
-msgid "Recovered your weapons and equipment!"
+msgid ""
+"I TOOK BACK \n"
+"THE WEAPONS\n"
+"AND EQUIPMENTS."
 msgstr ""
 
 #, 26
-msgid "Arrgh! The truck's been moved!!"
+msgid ""
+"I GOOFED!!\n"
+"THE LORRY\n"
+"STARTED TO MOVE!"
 msgstr ""
 
 #, 26
-msgid "Dr. Madnar... Was I... too late?"
+msgid ""
+"...DR. PETTROVICH.\n"
+"IT 'S TOO LATE."
 msgstr ""
 
 #, 3
 msgid ""
-"It seems that FOXHOUND is trying to infiltrate the base. Whatever you do, do"
-" not let them through!"
+"PROBABLY,\n"
+"FOXHOUNDER\n"
+"GAINED ACCESS.\n"
+"\n"
+"DON'T MAKE WAY\n"
+"FOR HIM,\n"
+"AT ANY COST."
 msgstr ""
 
 #, 1
-msgid "Go on in!"
+msgid "COME IN"
 msgstr ""
 
 #, 1
-msgid "Help!"
+msgid "HELP ME"
 msgstr ""
 
 #, 2
@@ -107,7 +120,10 @@ msgid ""
 msgstr ""
 
 #, 2
-msgid "Recovered your weapons and equipment!"
+msgid ""
+"I TOOK BACK \n"
+"THE WEAPONS\n"
+"AND EQUIPMENTS."
 msgstr ""
 
 #, 2
@@ -207,7 +223,10 @@ msgid ""
 msgstr ""
 
 #, 2
-msgid "Recovered your weapons and equipment!"
+msgid ""
+"I TOOK BACK \n"
+"THE WEAPONS\n"
+"AND EQUIPMENTS."
 msgstr ""
 
 #, 2
@@ -266,61 +285,94 @@ msgstr ""
 
 #, 5
 msgid ""
-"I am the Shotmaker!\n"
+"I'M SHOOT GUNNER!\n"
 "\n"
-"No one has ever escaped from here!"
+"NOBODY HAS\n"
+"\n"
+"EVER BEEN ABLE TO\n"
+"ESCAPE FROM HERE."
 msgstr ""
 
 #, 5
 msgid ""
-"I'm the Machinegun Kid!\n"
-"This is the end of the line for you!"
+"I'M \n"
+"MACHINEGUN KID!\n"
+"\n"
+"I'LL NEVER LET\n"
+"YOU GO AHEAD!!"
 msgstr ""
 
 #, 5
 msgid ""
-"I am the Fire Trooper!\n"
-"I'll burn you to a crisp!"
+"I'M FIRE TROOPER!\n"
+"\n"
+"I WILL\n"
+"\n"
+"BURN YOU ALIVE!"
 msgstr ""
 
 #, 5
 msgid ""
-"I am Dirty Duck!\n"
-"Go ahead and shoot - if you\n"
+"I'M COWARD DUCK!\n"
 "\n"
-"dare!"
+"YOU CAN'T\n"
+"\n"
+"SHOOT ME,\n"
+"\n"
+"CAN YOU?"
 msgstr ""
 
 #, 5
 msgid ""
-"Emergency!\n"
+"EMERGENCY!!\n"
 "\n"
-"Emergency!\n"
+"EMERGENCY!!\n"
 "\n"
-"The self-destruct sequence for Outer Heaven has been\n"
+"THE\n"
+"SELF-DESTRUCTION\n"
+"SWITCH OF\n"
 "\n"
-"initialized!\n"
+"OUTER HEAVEN HAS\n"
+"BEEN ACTIVATED.\n"
 "\n"
-"All personnel are ordered to evacuate immediately!"
+"ESCAPE QUICKLY!!"
 msgstr ""
 
 #, 0
 msgid ""
-"Solid Snake! I've been expecting you...\n"
+"SOLID SNAKE!\n"
+"YOU'VE FINALLY\n"
+"COME HERE.\n"
 "\n"
-"...I am the supreme commander of the FOXHOUND unit... And...\n"
+"YEAH, I'M BIG BOSS\n"
+"GENERAL COMMANDANT\n"
+"OF FOXHOUND.\n"
 "\n"
-"The leader of the fortress of Outer Heaven, Big Boss!\n"
+"AND IN CHARGE OF\n"
+"THIS FORTRESS,\n"
+"OUTER HEAVEN.\n"
 "\n"
-"I gave this mission to you, a rookie, thinking I could use you to fool the rest of the world...\n"
+"I GAVE YOU\n"
+"INSTRUCTIONS\n"
+"TO BRING BACK\n"
 "\n"
-"But you were too good. You went too far!\n"
+"FALSE INFORMATION\n"
+"OF METAL GEAR.\n"
 "\n"
-"Solid Snake!\n"
+"HOWEVER,\n"
+"YOU ACCOMPLISHED\n"
+"TOO MUCH.\n"
 "\n"
-"I'm not going down alone. I'm taking you with me!\n"
+"YOU HAVE\n"
+"COMPLETELY SMASHED\n"
+"MY AMBITIONS.\n"
 "\n"
-"Prepare to die!"
+"SOLID SNAKE!!\n"
+"\n"
+"I WILL NOT\n"
+"DIE ALONE.\n"
+"\n"
+"YOU WILL JOIN ME."
 msgstr ""
 
 #, 0

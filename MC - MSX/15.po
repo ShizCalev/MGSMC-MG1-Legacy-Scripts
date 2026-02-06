@@ -326,7 +326,7 @@ msgid "RESULT ( EASY )"
 msgstr ""
 
 #, 0
-msgid "Shotmaker"
+msgid "Shoot Gunner"
 msgstr ""
 
 #, 0
@@ -346,7 +346,7 @@ msgid "Fire Trooper"
 msgstr ""
 
 #, 0
-msgid "Dirty Duck"
+msgid "Coward Duck"
 msgstr ""
 
 #, 0
@@ -498,7 +498,7 @@ msgid "BIG BOSS"
 msgstr ""
 
 #, 0
-msgid "Shotmaker"
+msgid "Shoot Gunner"
 msgstr ""
 
 #, 0
@@ -518,7 +518,7 @@ msgid "Fire Trooper"
 msgstr ""
 
 #, 0
-msgid "Dirty Duck"
+msgid "Coward Duck"
 msgstr ""
 
 #, 0

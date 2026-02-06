@@ -10,9 +10,10 @@ msgstr ""
 
 #, 4
 msgid ""
-"Hi, this is Diane...\n"
-"They have a suppressor.\n"
-"...Bye."
+"HELLO THIS IS DIANE...\n"
+"I SUPPOSE THEY HAVE\n"
+"A SILENCER.\n"
+"...BYE"
 msgstr ""
 
 #, 4
@@ -23,30 +24,38 @@ msgstr ""
 
 #, 4
 msgid ""
-"Hi, this is Diane...\n"
-"The Machinegun Kid is vulnerable to attack by RC missiles.\n"
-"...Bye."
+"HELLO THIS IS DIANE...\n"
+"MACHINEGUN KID MUST BE\n"
+"KILLED BY\n"
+"REMOTE-CONTROL MISSILE.\n"
+"...OVER"
 msgstr ""
 
 #, 4
 msgid ""
-"Hi, this is Diane...\n"
-"The Hind D can be brought down with the grenade launcher.\n"
-"...Bye."
+"HELLO THIS IS DIANE...\n"
+"HIND-D MUST BE\n"
+"DESTOROYED BY\n"
+"GRENADE LAUNCHER.\n"
+"...BYE"
 msgstr ""
 
 #, 4
 msgid ""
-"Hi, this is Diane...\n"
-"Mines can destroy the tank.\n"
-"...Bye."
+"HELLO THIS IS DIANE...\n"
+"DESTOROY THE TANK WITH\n"
+"THE LAND MINE.\n"
+"...BYE"
 msgstr ""
 
 #, 4
 msgid ""
-"Hi, this is Diane...\n"
-"Let's use frequency 120.91 to communicate from now on. Call me again, OK?\n"
-"...Bye."
+"HELLO THIS IS DIANE...\n"
+"WILL CONTACT ON\n"
+"WAVEBAND 12091 FROM\n"
+"NOW ON.\n"
+"\n"
+"...BYE"
 msgstr ""
 
 #, 4
@@ -60,38 +69,53 @@ msgstr ""
 
 #, 4
 msgid ""
-"Hi, this is Diane...\n"
-"Bloody Brad, who's protecting the door, is indestructible!\n"
-"Run away!!"
+"HELLO THIS IS DIANE...\n"
+"THE DOORKEEPER,\n"
+"MR. ARNOLD\n"
+"IS INVINCIBLE!\n"
+"ESCAPE!"
 msgstr ""
 
 #, 4
 msgid ""
-"Hi, this is Diane. \n"
-"Are you OK? Look out for traps!\n"
-"...Bye."
+"HELLO THIS IS DIANE...\n"
+"PLEASE TAKE CARE,\n"
+"THERE MAY BE A PITFALL.\n"
+"...BYE"
 msgstr ""
 
 #, 4
 msgid ""
-"Hi, this is Diane...\n"
-"Use antidote against the scorpion poison.\n"
-"...Bye."
+"HELLO THIS IS DIANE...\n"
+"AN ANTIDOTE IS GOOD FOR\n"
+"THE POISON OF\n"
+"A SCORPION.\n"
+"...BYE"
 msgstr ""
 
 #, 4
 msgid ""
-"Hi, this is Diane!\n"
-"The only way to win without killing your allies is to use the handgun.\n"
-"...Bye."
-msgstr ""
-
-#, 4
-msgid ""
-"This is Diane!\n"
-"I don't know how to defeat Big Boss... Now it's all up to you! Solid Snake!\n"
+"HELLO THIS IS DIANE...\n"
 "\n"
-"... I... want to tell you... Er, nevermind... Be careful..."
+"USE THE HAND GUN TO\n"
+"CAPTURE THE PRISONERS,\n"
+"NOT TO KILL THEM.\n"
+"...BYE"
+msgstr ""
+
+#, 4
+"begin_message\n"
+"\n"
+"THIS IS DIANE...\n"
+"I DON'T KNOW HOW TO\n"
+"DEFEAT BIG BOSS.\n"
+"IT ALL DEPENDS ON YOU.\n"
+"SOLID SNAKE!\n"
+"\n"
+"I LOVE....\n"
+"NO, IT WAS\n"
+"A MERE NOTHING!\n"
+"GOOD LUCK!!"
 msgstr ""
 
 #, 0

@@ -4,71 +4,88 @@ msgstr ""
 
 #, 4
 msgid ""
-"This is Jennifer...\n"
-"I'll prepare the rocket launcher for you. Come and get it.\n"
-"...Over."
-msgstr ""
-
-#, 4
-msgid ""
-"This is Jennifer...\n"
-"I'll open the door.\n"
-"...Over."
-msgstr ""
-
-#, 4
-msgid ""
-"This is Jennifer...\n"
-"Blow up the wall!!\n"
-"...Over."
-msgstr ""
-
-#, 4
-msgid ""
-"This is Jennifer...\n"
-"There should be an oxygen cylinder on the other side of the wall!!\n"
-"...Over."
-msgstr ""
-
-#, 4
-msgid ""
-"This is Jennifer!\n"
+"THIS IS JENNIFER...\n"
+"WILL ARRANGE\n"
+"A ROCKET LAUNCHER.\n"
 "\n"
-"The card needed to open the doors from this point onwards can be found on the east side of Building 3. That location is connected to Building 2's water\n"
+"COME FOR\n"
+"A ROCKET LAUNCHER!\n"
+"...OVER"
+msgstr ""
+
+#, 4
+msgid ""
+"THIS IS JENNIFER...\n"
+"WILL OPEN THE DOOR.\n"
+"...OVER"
+msgstr ""
+
+#, 4
+msgid ""
+"THIS IS JENNIFER...\n"
+"YOU SHOULD BREAK DOWN\n"
+"THE WALL.\n"
+"...OVER"
+msgstr ""
+
+#, 4
+msgid ""
+"THIS IS JENNIFER...\n"
+"THERE IS AN OXYGEN\n"
+"CYLINDER BEYOND\n"
+"THE WALL.\n"
+"...OVER"
+msgstr ""
+
+#, 4
+msgid ""
+"THIS IS JENNIFER...\n"
+"A CARD WHICH OPEN\n"
+"THE NEXT DOOR LIES IN\n"
+"THE EAST OF BUILDING 3.\n"
 "\n"
-"works.\n"
-"...Over."
+"THE EASTERN SIDE LEADS\n"
+"TO THE DITCH\n"
+"OF BUILDING 2.\n"
+"...OVER"
 msgstr ""
 
 #, 4
 msgid ""
-"This is Jennifer...\n"
-"Dirty Duck has card 8.\n"
+"THIS IS JENNIFER...\n"
+"COWARD DUCK HAS CARD 8.\n"
 "\n"
-"My brother is among the captives! Please don't kill them...\n"
+"MY BROTHER IS AMONG\n"
+"THE CAPTIVES .\n"
+"PLEASE DON'T KILL THEM.\n"
+"...OVER"
+msgstr ""
+
+#, 4
+msgid ""
+"THIS IS JENNIFER...\n"
+"YOU SHOULD BREAK DOWN\n"
+"THE WALL.\n"
+"...OVER"
+msgstr ""
+
+#, 4
+msgid ""
+"THIS IS JENNIFER...\n"
+"YOU MUST RUN FAST.\n"
+"...OVER"
+msgstr ""
+
+#, 4
+msgid ""
+"THIS IS JENNIFER...\n"
+"YOU CAN EXTEND THE TIME\n"
+"LIMIT BY USING\n"
+"A CIGARETTE.\n"
 "\n"
-"If anything happens to my brother, I won't help you anymore!"
-msgstr ""
-
-#, 4
-msgid ""
-"This is Jennifer!!\n"
-"Blow up the wall on the left!\n"
-"...Over."
-msgstr ""
-
-#, 4
-msgid ""
-"This is Jennifer!\n"
-"You're just gonna have to make a run for it! As long as you have some rations left, you'll be OK.\n"
-"...Over."
-msgstr ""
-
-#, 4
-msgid ""
-"This is Jennifer!\n"
-"If you use a cigarette, you'll buy yourself some more time. Come back alive, got it?!\n"
-"Solid Snake..."
+"PLEASE RETURN IN\n"
+"SAFETY,\n"
+"SOLID SNAKE!"
 msgstr ""
 
 #, 0
