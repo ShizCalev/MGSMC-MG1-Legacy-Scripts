@@ -4,7 +4,7 @@ msgstr ""
 
 #, 0
 msgid ""
-"I 'M GREY FOX.\n"
+"I'M GREY FOX.\n"
 "\n"
 "THE ULTIMATE WEAPON\n"
 "METAL GEAR HAS\n"

@@ -72,161 +72,161 @@ msgstr ""
 
 #, 0
 msgid ""
-"HANDGUN\n"
-"PISTOL. PUSH THE |0 BUTTON TO SHOOT ONE ROUND AT A TIME. CAN BE FITTED WITH A SUPPRESSOR."
+"Handgun\n"
+"Pistol. Push the |0 button to shoot one round at a time. Can be fitted with a suppressor."
 msgstr ""
 
 #, 0
 msgid ""
-"MINE\n"
-"THESE MINES CAN BE PRIMED BY THE PLAYER. UP TO THREE CAN BE SET ON THE SAME SCREEN."
+"Mine\n"
+"These mines can be primed by the player. Up to three can be set on the same screen."
 msgstr ""
 
 #, 0
 msgid ""
-"PLASTIC EXPLOSIVE \n"
-"THESE EXPLOSIVES ARE SET AND A TIMER IS USED TO CONTROL THE DETONATION. ONLY ONE CAN BE SET PER SCREEN."
+"Plastic Explosive \n"
+"These explosives are set and a timer is used to control the detonation. Only one can be set per screen."
 msgstr ""
 
 #, 0
 msgid ""
-"RC MISSILE\n"
-"USE |1 TO CONTROL THE PATH OF THE MISSILE. PLAYER CANNOT MOVE WHILE CONTROLLING THE MISSILE."
+"RC Missile\n"
+"Use |1 to control the path of the missile. Player cannot move while controlling the missile."
 msgstr ""
 
 #, 0
 msgid ""
-"GRENADE LAUNCHER\n"
-"FIRES GRENADES."
+"Grenade Launcher\n"
+"Fires grenades."
 msgstr ""
 
 #, 0
 msgid ""
-"SUBMACHINE GUN\n"
-"PRESSING AND HOLDING DOWN THE |0 BUTTON TRIGGERS CONTINUOUS FIRE. CAN BE FITTED WITH A SUPPRESSOR."
+"Submachine Gun\n"
+"Pressing and holding down the |0 button triggers continuous fire. Can be fitted with a suppressor."
 msgstr ""
 
 #, 0
 msgid ""
-"ROCKET LAUNCHER\n"
-"A FORMIDABLE WEAPON THAT SHOOTS ROCKETS."
+"Rocket Launcher\n"
+"A formidable weapon that shoots rockets."
 msgstr ""
 
 #, 0
 msgid ""
-"CIGARETTES\n"
-"SURGEON GENERAL'S WARNING:\n"
-"CIGARETTE SMOKING MAY BE HAZARDOUS TO YOUR HEALTH."
+"Cigarettes\n"
+"Surgeon General's Warning:\n"
+"Cigarette smoking may be hazardous to your health."
 msgstr ""
 
 #, 0
 msgid ""
-"FLASHLIGHT\n"
-"USEFUL WHEN WALKING DOWN SUBTERRANEAN PASSAGEWAYS."
+"Flashlight\n"
+"Useful when walking down subterranean passageways."
 msgstr ""
 
 #, 0
 msgid ""
-"OXYGEN CYLINDER\n"
-"USING THE OXYGEN CYLINDER IN THE WATER WILL PRESERVE YOUR LIFE GAUGE."
+"Oxygen Cylinder\n"
+"Using the oxygen cylinder in the water will preserve your LIFE gauge."
 msgstr ""
 
 #, 0
 msgid ""
-"RATIONS\n"
-"REPLENISHES LIFE GAUGE."
+"Rations\n"
+"Replenishes LIFE gauge."
 msgstr ""
 
 #, 0
 msgid ""
-"COMPASS\n"
-"USE THIS TO CROSS THE DESERT."
+"Compass\n"
+"Use this to cross the desert."
 msgstr ""
 
 #, 0
 msgid ""
-"BINOCULARS\n"
-"ALLOW YOU TO SEE THE ONE SCREEN UP, DOWN, LEFT, OR RIGHT OF YOUR PRESENT LOCATION. CANNOT BE USED INDOORS."
+"Binoculars\n"
+"Allow you to see the one screen up, down, left, or right of your present location. Cannot be used indoors."
 msgstr ""
 
 #, 0
 msgid ""
-"BOMB BLAST SUIT\n"
-"PROTECTS THE WEARER FROM STRONG WINDS AND EXPLOSIVE BLASTS. PROTECTIVE CLOTHING FOR BOMB DISPOSAL WORK."
+"Bomb Blast Suit\n"
+"Protects the wearer from strong winds and explosive blasts. Protective clothing for bomb disposal work."
 msgstr ""
 
 #, 0
 msgid ""
-"CARDBOARD BOX\n"
+"Cardboard Box\n"
 "?"
 msgstr ""
 
 #, 0
 msgid ""
-"INFRARED GOGGLES\n"
-"WEAR THESE TO DISCOVER THE LOCATION OF INFRARED SENSORS."
+"Infrared Goggles\n"
+"Wear these to discover the location of infrared sensors."
 msgstr ""
 
 #, 0
 msgid ""
-"TRANSMITTER\n"
+"Transmitter\n"
 "?"
 msgstr ""
 
 #, 0
 msgid ""
-"ENEMY UNIFORM\n"
+"Enemy Uniform\n"
 "?"
 msgstr ""
 
 #, 0
 msgid ""
-"ANTENNA\n"
-"YOU CAN SEND AND RECEIVE COMMUNICATIONS USING THE ANTENNA, EVEN WHEN YOU ARE IN AN ENEMY JAMMING ZONE."
+"Antenna\n"
+"You can send and receive communications using the antenna, even when you are in an enemy jamming zone."
 msgstr ""
 
 #, 0
 msgid ""
-"MINE DETECTOR\n"
-"USE THIS TO DISCOVER THE LOCATION OF MINES."
+"Mine Detector\n"
+"Use this to discover the location of mines."
 msgstr ""
 
 #, 0
 msgid ""
-"PARACHUTE\n"
-"USE THIS TO DROP DOWN FROM THE ROOF."
+"Parachute\n"
+"Use this to drop down from the roof."
 msgstr ""
 
 #, 0
 msgid ""
-"GAS MASK\n"
-"REQUIRED FOR THE GAS ROOM."
+"Gas Mask\n"
+"Required for the gas room."
 msgstr ""
 
 #, 0
 msgid ""
-"ANTIDOTE\n"
-"CURES POISON, SO YOUR LIFE GAUGE DOES NOT DECREASE."
+"Antidote\n"
+"Cures poison, so your LIFE gauge does not decrease."
 msgstr ""
 
 #, 0
 msgid ""
-"CARDS\n"
-"THESE CARDS OPEN DOORS. CARD NUMBERS WILL DIFFER, DEPENDING ON THE TYPE OF DOOR."
+"Cards\n"
+"These cards open doors. Card numbers will differ, depending on the type of door."
 msgstr ""
 
 #, 0
 msgid ""
-"BANDANA\n"
-"SOLID SNAKE'S BANDANA.\n"
-"∞ (INFINITY) SYMBOL IS\n"
-"SEWN IN."
+"Bandana\n"
+"Solid Snake's bandana.\n"
+"∞ (infinity) symbol is\n"
+"sewn in."
 msgstr ""
 
 #, 0
 msgid ""
-"BODY ARMOR\n"
-"HALVES THE DAMAGE CAUSED BY ENEMY WEAPONS."
+"Body Armor\n"
+"Halves the damage caused by enemy weapons."
 msgstr ""
 
 #, 0

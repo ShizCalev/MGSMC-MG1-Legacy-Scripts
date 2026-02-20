@@ -3,6 +3,7 @@ msgid ""
 msgstr ""
 
 #, 4
+msgid ""
 "THIS IS SOLID SNAKE...\n"
 "METAL GEAR'S\n"
 "DESTRUCTION IS\n"
